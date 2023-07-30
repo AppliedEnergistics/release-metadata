@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.374.0",
+    "@octokit/auth-token": "^4.0.0",
+    "@octokit/rest": "^20.0.1",
+    "@types/adm-zip": "^0.5.0",
+    "@types/semver": "^7.5.0",
+    "adm-zip": "^0.5.10",
+    "semver": "^7.5.4",
+    "toml": "^3.0.0",
+    "typescript": "5.1.6"
+  },
+  "scripts": {
+    "tsc": "node_modules/.bin/tsc",
+    "index-github-releases": "tsc && node index-github-releases.js",
+    "index-modrinth-releases": "tsc && node index-modrinth-releases.js",
+    "index-curseforge-releases": "tsc && node index-curseforge-releases.js"
+  }
+}
