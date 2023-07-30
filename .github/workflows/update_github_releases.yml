@@ -16,6 +16,8 @@ jobs:
   update_github_releases:
     name: Update Github Release Index
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     concurrency:
       group: update-github-releases
       cancel-in-progress: true
