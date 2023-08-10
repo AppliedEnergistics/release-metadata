@@ -7048,5 +7048,131 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "forge/v15.0.9-beta": {
+    "tagName": "forge/v15.0.9-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/forge/v15.0.9-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 10846788,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.9-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/120309613"
+      },
+      "api": {
+        "filename": "appliedenergistics2-forge-15.0.9-beta-api.jar",
+        "size": 613418,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.9-beta/appliedenergistics2-forge-15.0.9-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/120309552"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-forge-15.0.9-beta.jar",
+        "size": 9685359,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.9-beta/appliedenergistics2-forge-15.0.9-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/120309546"
+      }
+    },
+    "published": "2023-08-06T07:25:41Z",
+    "changelog": "Some of the fixes supposed to be released in 15.0.7-beta were not correctly released as part of the Forge version.\nThis release fixes that issue and the fixes listed in 15.0.7-beta are now included as intended.",
+    "version": "15.0.9-beta",
+    "modLoaders": [
+      "forge"
+    ],
+    "minecraftVersions": [
+      "1.20.1"
+    ]
+  },
+  "forge/v15.0.8-beta": {
+    "tagName": "forge/v15.0.8-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/forge/v15.0.8-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 10846229,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.8-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/120192447"
+      },
+      "api": {
+        "filename": "appliedenergistics2-forge-15.0.8-beta-api.jar",
+        "size": 613418,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.8-beta/appliedenergistics2-forge-15.0.8-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/120192439"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-forge-15.0.8-beta.jar",
+        "size": 9685279,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.8-beta/appliedenergistics2-forge-15.0.8-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/120192437"
+      }
+    },
+    "published": "2023-08-05T06:44:16Z",
+    "changelog": "## What's Changed\n* Set minimum Forge to 47.1.3 for transitional period of Forge & Neoforge by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7315\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/forge/v15.0.7-beta...forge/v15.0.8-beta",
+    "version": "15.0.8-beta",
+    "modLoaders": [
+      "forge"
+    ],
+    "minecraftVersions": [
+      "1.20.1"
+    ]
+  },
+  "forge/v15.0.7-beta": {
+    "tagName": "forge/v15.0.7-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/forge/v15.0.7-beta",
+    "assets": {
+      "api": {
+        "filename": "appliedenergistics2-forge-15.0.7-beta-api.jar",
+        "size": 613418,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.7-beta/appliedenergistics2-forge-15.0.7-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/120191769"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-forge-15.0.7-beta.jar",
+        "size": 9685279,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.7-beta/appliedenergistics2-forge-15.0.7-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/120191766"
+      }
+    },
+    "published": "2023-08-05T06:32:22Z",
+    "changelog": "## What's Changed\n* Fix cable bounding box with cable anchor by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7300\n* Export bus with crafting card causes crash using slots beyond the first 9. Fixes #7312. by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7313\n* Inscriber doesn't switch recipe when input is replaced. Fixes #7272. by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7274\n* Don't update neighbors when controller state changes. Fixes #7152. by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7268\n* Add Addon API method to get cell inventories from IChestOrDrive by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7299\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/fabric/v15.0.6-beta...forge/v15.0.7-beta",
+    "version": "15.0.7-beta",
+    "modLoaders": [
+      "forge"
+    ],
+    "minecraftVersions": [
+      "1.20.1"
+    ]
+  },
+  "fabric/v15.0.7-beta": {
+    "tagName": "fabric/v15.0.7-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/fabric/v15.0.7-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 11116351,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v15.0.7-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/119923176"
+      },
+      "api": {
+        "filename": "appliedenergistics2-fabric-15.0.7-beta-api.jar",
+        "size": 599651,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v15.0.7-beta/appliedenergistics2-fabric-15.0.7-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/119923276"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-fabric-15.0.7-beta.jar",
+        "size": 9786797,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v15.0.7-beta/appliedenergistics2-fabric-15.0.7-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/119923268"
+      }
+    },
+    "published": "2023-08-03T13:49:59Z",
+    "changelog": "## What's Changed\n* Fix cable bounding box with cable anchor by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7300\n* Export bus with crafting card causes crash using slots beyond the first 9. Fixes #7312. by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7313\n* Inscriber doesn't switch recipe when input is replaced. Fixes #7272. by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7274\n* Don't update neighbors when controller state changes. Fixes #7152. by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7268\n* Add Addon API method to get cell inventories from IChestOrDrive by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7299\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/fabric/v15.0.6-beta...fabric/v15.0.7-beta",
+    "version": "15.0.7-beta",
+    "modLoaders": [
+      "fabric"
+    ],
+    "minecraftVersions": [
+      "1.20.1"
+    ]
   }
 }
