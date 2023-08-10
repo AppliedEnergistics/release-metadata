@@ -1,4 +1,4 @@
-import { mkdirSync, writeFileSync } from "node:fs";
+import {writeFileSync} from "node:fs";
 
 export enum ModrinthReleaseType {
   RELEASE = "release",
@@ -30,10 +30,10 @@ async function fetchReleases(): Promise<ModrinthRelease[]> {
   if (!response.ok) {
     throw new Error(
       "Failed to fetch. " +
-        response.status +
-        " (" +
-        (await response.text()) +
-        ")"
+      response.status +
+      " (" +
+      (await response.text()) +
+      ")"
     );
   }
 
@@ -54,7 +54,6 @@ async function fetchReleases(): Promise<ModrinthRelease[]> {
   );
 }
 
-mkdirSync("caches");
 const releases = await fetchReleases();
 writeFileSync(
   "caches/modrinth_releases.json",
