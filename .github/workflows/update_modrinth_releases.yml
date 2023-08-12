@@ -2,13 +2,12 @@
 name: 'Update Modrinth Releases'
 
 on:
-  push:
-    branches:
-      - main
   repository_dispatch:
     types:
       - update-modrinth-releases
   workflow_dispatch:
+  schedule:
+    - cron:  '30 5,17 * * *'
 
 permissions:
   contents: write

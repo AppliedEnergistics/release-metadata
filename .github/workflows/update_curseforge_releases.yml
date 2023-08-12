@@ -2,13 +2,12 @@
 name: 'Update Curseforge Releases'
 
 on:
-  push:
-    branches:
-      - main
   repository_dispatch:
     types:
       - update-curseforge-releases
   workflow_dispatch:
+  schedule:
+    - cron:  '30 6,18 * * *'
 
 permissions:
   contents: write

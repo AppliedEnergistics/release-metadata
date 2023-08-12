@@ -2,13 +2,12 @@
 name: 'Update Github Releases'
 
 on:
-  push:
-    branches:
-      - main
   repository_dispatch:
     types:
       - update-github-releases
   workflow_dispatch:
+  schedule:
+    - cron:  '30 4,16 * * *'
 
 permissions:
   contents: write
