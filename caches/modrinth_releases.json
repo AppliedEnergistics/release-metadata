@@ -1,5 +1,61 @@
 [
   {
+    "id": "lThI0ayT",
+    "displayName": "12.9.7 [FORGE]",
+    "version": "forge-12.9.7",
+    "type": "release",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "published": "2023-08-22T21:48:50.944258Z",
+    "filename": "appliedenergistics2-forge-12.9.7.jar",
+    "loaders": [
+      "forge"
+    ]
+  },
+  {
+    "id": "W4efZESl",
+    "displayName": "12.9.7 [FABRIC]",
+    "version": "fabric-12.9.7",
+    "type": "release",
+    "gameVersions": [
+      "1.19.2"
+    ],
+    "published": "2023-08-22T21:36:14.457624Z",
+    "filename": "appliedenergistics2-fabric-12.9.7.jar",
+    "loaders": [
+      "fabric"
+    ]
+  },
+  {
+    "id": "tifFqBKk",
+    "displayName": "11.7.5 [FORGE]",
+    "version": "forge-11.7.5",
+    "type": "release",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "published": "2023-08-22T21:01:25.629970Z",
+    "filename": "appliedenergistics2-forge-11.7.5.jar",
+    "loaders": [
+      "forge"
+    ]
+  },
+  {
+    "id": "wGIGpPsQ",
+    "displayName": "11.7.5 [FABRIC]",
+    "version": "fabric-11.7.5",
+    "type": "release",
+    "gameVersions": [
+      "1.18.2"
+    ],
+    "published": "2023-08-22T21:00:36.806188Z",
+    "filename": "appliedenergistics2-fabric-11.7.5.jar",
+    "loaders": [
+      "fabric"
+    ]
+  },
+  {
     "id": "rLjoLUTF",
     "displayName": "AE2 15.0.9-beta [NEOFORGE]",
     "version": "15.0.9-beta",
