@@ -1,5 +1,49 @@
 [
   {
+    "id": 4733125,
+    "filename": "appliedenergistics2-fabric-12.9.8.jar",
+    "displayName": "AE2 12.9.8 [FABRIC]",
+    "type": 1,
+    "gameVersions": [
+      "Fabric",
+      "1.19.2"
+    ],
+    "published": "2023-09-02T01:08:56.533Z"
+  },
+  {
+    "id": 4733119,
+    "filename": "appliedenergistics2-forge-12.9.8.jar",
+    "displayName": "AE2 12.9.8 [FORGE]",
+    "type": 1,
+    "gameVersions": [
+      "Forge",
+      "1.19.2"
+    ],
+    "published": "2023-09-02T01:06:09.52Z"
+  },
+  {
+    "id": 4733117,
+    "filename": "appliedenergistics2-fabric-11.7.6.jar",
+    "displayName": "AE2 11.7.6 [FABRIC]",
+    "type": 1,
+    "gameVersions": [
+      "Fabric",
+      "1.18.2"
+    ],
+    "published": "2023-09-02T01:05:00.337Z"
+  },
+  {
+    "id": 4733112,
+    "filename": "appliedenergistics2-forge-11.7.6.jar",
+    "displayName": "AE2 11.7.6 [FORGE]",
+    "type": 1,
+    "gameVersions": [
+      "Forge",
+      "1.18.2"
+    ],
+    "published": "2023-09-02T01:03:03.11Z"
+  },
+  {
     "id": 4717785,
     "filename": "appliedenergistics2-forge-12.9.7.jar",
     "displayName": "AE2 12.9.7 [FORGE]",
