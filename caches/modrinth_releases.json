@@ -1,5 +1,34 @@
 [
   {
+    "id": "U3MExcIx",
+    "displayName": "AE2 15.0.15 [NEOFORGE]",
+    "version": "15.0.15",
+    "type": "release",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "published": "2023-11-10T22:25:04.298671Z",
+    "filename": "appliedenergistics2-forge-15.0.15.jar",
+    "loaders": [
+      "forge",
+      "neoforge"
+    ]
+  },
+  {
+    "id": "aQH6ftSR",
+    "displayName": "AE2 15.0.15 [FABRIC]",
+    "version": "15.0.15",
+    "type": "release",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "published": "2023-11-10T22:09:45.941995Z",
+    "filename": "appliedenergistics2-fabric-15.0.15.jar",
+    "loaders": [
+      "fabric"
+    ]
+  },
+  {
     "id": "8edEAu2V",
     "displayName": "AE2 15.0.14 [NEOFORGE]",
     "version": "15.0.14",
