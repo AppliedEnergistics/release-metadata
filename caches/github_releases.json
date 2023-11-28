@@ -7776,5 +7776,38 @@
     "minecraftVersions": [
       "1.20.1"
     ]
+  },
+  "neoforge/v16.0.1-alpha": {
+    "tagName": "neoforge/v16.0.1-alpha",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v16.0.1-alpha",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 11690095,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v16.0.1-alpha/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/137734701"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-16.0.1-alpha-api.jar",
+        "size": 614839,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v16.0.1-alpha/appliedenergistics2-neoforge-16.0.1-alpha-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/137735039"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-16.0.1-alpha.jar",
+        "size": 9596286,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v16.0.1-alpha/appliedenergistics2-neoforge-16.0.1-alpha.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/137735034"
+      }
+    },
+    "published": "2023-11-27T23:43:27Z",
+    "changelog": "## What's Changed\n* Port to Neoforge 1.20.2 by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7467\n* check render before rendering it by @GlodBlock in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7479\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/fabric/v15.0.15...neoforge/v16.0.1\n",
+    "version": "16.0.1-alpha",
+    "minecraftVersions": [
+      "1.20.2"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
