@@ -7809,5 +7809,38 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "neoforge/v16.0.2": {
+    "tagName": "neoforge/v16.0.2",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v16.0.2",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 11699534,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v16.0.2/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/138701444"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-16.0.2-api.jar",
+        "size": 614839,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v16.0.2/appliedenergistics2-neoforge-16.0.2-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/138701393"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-16.0.2.jar",
+        "size": 9596309,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v16.0.2/appliedenergistics2-neoforge-16.0.2.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/138701386"
+      }
+    },
+    "published": "2023-12-03T12:41:32Z",
+    "changelog": "## What's Changed\n* Update to NeoForge 1.20.2 stable by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7488\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v16.0.1-alpha...neoforge/v16.0.2",
+    "version": "16.0.2",
+    "minecraftVersions": [
+      "1.20.2"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
