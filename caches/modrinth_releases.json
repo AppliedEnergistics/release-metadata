@@ -1,5 +1,19 @@
 [
   {
+    "id": "XfVOZDN8",
+    "displayName": "AE2 17.0.0-alpha [NEOFORGE]",
+    "version": "17.0.0-alpha",
+    "type": "alpha",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "published": "2023-12-24T20:23:43.961861Z",
+    "filename": "appliedenergistics2-neoforge-17.0.0-alpha.jar",
+    "loaders": [
+      "neoforge"
+    ]
+  },
+  {
     "id": "Cf5vGMwV",
     "displayName": "AE2 16.0.2 [NEOFORGE]",
     "version": "16.0.2",
