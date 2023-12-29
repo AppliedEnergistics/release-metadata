@@ -7935,5 +7935,32 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "forge/v15.0.17": {
+    "tagName": "forge/v15.0.17",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/forge/v15.0.17",
+    "assets": {
+      "api": {
+        "filename": "appliedenergistics2-forge-15.0.17-api.jar",
+        "size": 614552,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.17/appliedenergistics2-forge-15.0.17-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/142914483"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-forge-15.0.17.jar",
+        "size": 9801755,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.17/appliedenergistics2-forge-15.0.17.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/142914481"
+      }
+    },
+    "published": "2023-12-29T13:21:25Z",
+    "changelog": "Removed unused third party dependency (Flatbuffers) from the mod jar, preventing compatibility issues with other mods that make the same mistake.",
+    "version": "15.0.17",
+    "modLoaders": [
+      "forge"
+    ],
+    "minecraftVersions": [
+      "1.20.1"
+    ]
   }
 }
