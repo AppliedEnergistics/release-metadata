@@ -7962,5 +7962,71 @@
     "minecraftVersions": [
       "1.20.1"
     ]
+  },
+  "neoforge/v17.0.2-beta": {
+    "tagName": "neoforge/v17.0.2-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.0.2-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12951652,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.0.2-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/143161748"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.0.2-beta-api.jar",
+        "size": 618607,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.0.2-beta/appliedenergistics2-neoforge-17.0.2-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/143161236"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.0.2-beta.jar",
+        "size": 9768024,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.0.2-beta/appliedenergistics2-neoforge-17.0.2-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/143161232"
+      }
+    },
+    "published": "2023-12-31T15:45:52Z",
+    "changelog": "## What's Changed\n* Update Jade and WTHIT by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7516\n* Fix plane, p2p, terminal item models by @serenibyss in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7502\n* Fix dense covered cable item model by @serenibyss in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7500\n* Update REI and implement an entropy manipulator category by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7515\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7469\n* Ensure block entities are not accidentally recreated during Spatial IO move by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7521\n* Fix annihilation planes staying asleep when blocks in front of them change by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7530\n* Add Silk Touch enchanted annihilation plane to creative tab by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7529\n\n## New Contributors\n* @serenibyss made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7502\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.0.1-alpha...neoforge/v17.0.2-beta",
+    "version": "17.0.2-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
+  },
+  "forge/v15.0.18": {
+    "tagName": "forge/v15.0.18",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/forge/v15.0.18",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 11714718,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.18/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/143161814"
+      },
+      "api": {
+        "filename": "appliedenergistics2-forge-15.0.18-api.jar",
+        "size": 614835,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.18/appliedenergistics2-forge-15.0.18-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/143161652"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-forge-15.0.18.jar",
+        "size": 9805941,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.18/appliedenergistics2-forge-15.0.18.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/143161650"
+      }
+    },
+    "published": "2023-12-31T15:46:10Z",
+    "changelog": "* Ensure block entities are not accidentally recreated during Spatial IO move by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7521\n* Fix annihilation planes staying asleep when blocks in front of them change by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7530\n* Add Silk Touch enchanted annihilation plane to creative tab by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7529\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/forge/v15.0.17...forge/v15.0.18",
+    "version": "15.0.18",
+    "modLoaders": [
+      "forge"
+    ],
+    "minecraftVersions": [
+      "1.20.1"
+    ]
   }
 }
