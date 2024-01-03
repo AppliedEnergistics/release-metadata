@@ -1,5 +1,16 @@
 [
   {
+    "id": 5003293,
+    "filename": "appliedenergistics2-neoforge-17.0.3-beta.jar",
+    "displayName": "AE2 17.0.3-beta [NEOFORGE]",
+    "type": 2,
+    "gameVersions": [
+      "NeoForge",
+      "1.20.4"
+    ],
+    "published": "2024-01-03T00:08:01.433Z"
+  },
+  {
     "id": 4997777,
     "filename": "appliedenergistics2-fabric-15.0.18.jar",
     "displayName": "AE2 15.0.18 [FABRIC]",
