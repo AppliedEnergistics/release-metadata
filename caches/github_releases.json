@@ -8127,5 +8127,161 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "neoforge/v17.0.5-beta": {
+    "tagName": "neoforge/v17.0.5-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.0.5-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12862030,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.0.5-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/144247331"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.0.5-beta-api.jar",
+        "size": 618614,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.0.5-beta/appliedenergistics2-neoforge-17.0.5-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/144247307"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.0.5-beta.jar",
+        "size": 9776479,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.0.5-beta/appliedenergistics2-neoforge-17.0.5-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/144247302"
+      }
+    },
+    "published": "2024-01-07T15:53:56Z",
+    "changelog": "## What's Changed\n* Fix Spatial Storage Dimension Sky Rendering Artifacts / Incompatibility by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7547\n* Fix Clouds being visible in the Spatial Storage Dimension by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7548\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.0.4-beta...neoforge/v17.0.5-beta",
+    "version": "17.0.5-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
+  },
+  "forge/v15.0.19": {
+    "tagName": "forge/v15.0.19",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/forge/v15.0.19",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 11723157,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.19/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/144245018"
+      },
+      "api": {
+        "filename": "appliedenergistics2-forge-15.0.19-api.jar",
+        "size": 614835,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.19/appliedenergistics2-forge-15.0.19-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/144244291"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-forge-15.0.19.jar",
+        "size": 9804542,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.19/appliedenergistics2-forge-15.0.19.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/144244287"
+      }
+    },
+    "published": "2024-01-07T15:28:40Z",
+    "changelog": "* Fix Spatial Storage Dimension Sky Rendering Artifacts / Incompatibility\n* Fix Clouds being visible in the Spatial Storage Dimension\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/forge/v15.0.18...forge/v15.0.19",
+    "version": "15.0.19",
+    "modLoaders": [
+      "forge"
+    ],
+    "minecraftVersions": [
+      "1.20.1"
+    ]
+  },
+  "forge/v12.9.9": {
+    "tagName": "forge/v12.9.9",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/forge/v12.9.9",
+    "assets": {
+      "api": {
+        "filename": "appliedenergistics2-forge-12.9.9-api.jar",
+        "size": 584941,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v12.9.9/appliedenergistics2-forge-12.9.9-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/144247451"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-forge-12.9.9.jar",
+        "size": 9927948,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v12.9.9/appliedenergistics2-forge-12.9.9.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/144247444"
+      }
+    },
+    "published": "2024-01-07T15:53:18Z",
+    "changelog": "- Fix Spatial Storage Dimension Sky Rendering Artifacts / Incompatibility\n- Fix Clouds being visible in the Spatial Storage Dimension\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/forge/v12.9.8...forge/v12.9.9",
+    "version": "12.9.9",
+    "modLoaders": [
+      "forge"
+    ],
+    "minecraftVersions": [
+      "1.19.2"
+    ]
+  },
+  "fabric/v15.0.19": {
+    "tagName": "fabric/v15.0.19",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/fabric/v15.0.19",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 11461963,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v15.0.19/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/144242583"
+      },
+      "api": {
+        "filename": "appliedenergistics2-fabric-15.0.19-api.jar",
+        "size": 601077,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v15.0.19/appliedenergistics2-fabric-15.0.19-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/144242451"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-fabric-15.0.19.jar",
+        "size": 9906715,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v15.0.19/appliedenergistics2-fabric-15.0.19.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/144242443"
+      }
+    },
+    "published": "2024-01-07T15:11:52Z",
+    "changelog": "Fix Spatial Storage Dimension Sky Rendering Artifacts / Incompatibilies\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/fabric/v15.0.18...fabric/v15.0.19",
+    "version": "15.0.19",
+    "modLoaders": [
+      "fabric"
+    ],
+    "minecraftVersions": [
+      "1.20.1"
+    ]
+  },
+  "fabric/v12.9.9": {
+    "tagName": "fabric/v12.9.9",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/fabric/v12.9.9",
+    "assets": {
+      "api": {
+        "filename": "appliedenergistics2-fabric-12.9.9-api.jar",
+        "size": 596923,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v12.9.9/appliedenergistics2-fabric-12.9.9-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/144242733"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-fabric-12.9.9.jar",
+        "size": 10153691,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v12.9.9/appliedenergistics2-fabric-12.9.9.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/144242728"
+      }
+    },
+    "published": "2024-01-07T15:11:12Z",
+    "changelog": "Fix Spatial Storage Dimension Sky Rendering Artifacts / Incompatibilies\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/fabric/v12.9.8...fabric/v12.9.9",
+    "version": "12.9.9",
+    "modLoaders": [
+      "fabric"
+    ],
+    "minecraftVersions": [
+      "1.19.4",
+      "1.19.3",
+      "1.19.2",
+      "1.19.1"
+    ]
   }
 }
