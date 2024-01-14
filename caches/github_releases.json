@@ -8283,5 +8283,38 @@
       "1.19.2",
       "1.19.1"
     ]
+  },
+  "neoforge/v17.0.6-beta": {
+    "tagName": "neoforge/v17.0.6-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.0.6-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12881482,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.0.6-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/145550998"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.0.6-beta-api.jar",
+        "size": 618614,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.0.6-beta/appliedenergistics2-neoforge-17.0.6-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/145550921"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.0.6-beta.jar",
+        "size": 9776555,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.0.6-beta/appliedenergistics2-neoforge-17.0.6-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/145550910"
+      }
+    },
+    "published": "2024-01-14T16:19:43Z",
+    "changelog": "## What's Changed\n* Make crafting unit recipies consistent by @LostQuasar in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7550\n* Fix quantum bridge infinite update loop by @shBLOCK in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7558\n\n## New Contributors\n* @LostQuasar made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7550\n* @shBLOCK made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7558\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.0.5-beta...neoforge/v17.0.6-beta",
+    "version": "17.0.6-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
