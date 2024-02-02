@@ -8376,5 +8376,38 @@
     "minecraftVersions": [
       "1.20.1"
     ]
+  },
+  "neoforge/v17.0.7-beta": {
+    "tagName": "neoforge/v17.0.7-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.0.7-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12895147,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.0.7-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/149269385"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.0.7-beta-api.jar",
+        "size": 618644,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.0.7-beta/appliedenergistics2-neoforge-17.0.7-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/149269342"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.0.7-beta.jar",
+        "size": 9779675,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.0.7-beta/appliedenergistics2-neoforge-17.0.7-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/149269337"
+      }
+    },
+    "published": "2024-02-01T23:41:47Z",
+    "changelog": "## What's Changed\n* Stop logging certain errors only when AE debug logging was enabled, always log them instead by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7561\n* Fix mousewheel scrolling in the guide by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7583\n* Add datagenned files to the repo by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7582\n* Remove debug chunk loader by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7584\n* Adjust amount input width depending on the width of the unit shown by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7586\n* Config option spawn only flawless budding quartz in meteorites  by @LostQuasar in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7575\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7545\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.0.6-beta...neoforge/v17.0.7-beta",
+    "version": "17.0.7-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
