@@ -8409,5 +8409,38 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "neoforge/v17.1.0-beta": {
+    "tagName": "neoforge/v17.1.0-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.1.0-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12918005,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.1.0-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/151040368"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.1.0-beta-api.jar",
+        "size": 624606,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.1.0-beta/appliedenergistics2-neoforge-17.1.0-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/151040273"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.1.0-beta.jar",
+        "size": 9803639,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.1.0-beta/appliedenergistics2-neoforge-17.1.0-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/151040269"
+      }
+    },
+    "published": "2024-02-11T23:38:20Z",
+    "changelog": "## What's Changed\n* Allow cocoa to be accelerated by the growth accelerator by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7587\n* Curio Integration by @Mari023 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7572\n* Invalidate capabilities when appropriate by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7604\n* Rework item based menus to use suppliers by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7593\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7592\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.0.7-beta...neoforge/v17.1.0-beta",
+    "version": "17.1.0-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
