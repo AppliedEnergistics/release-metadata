@@ -8442,5 +8442,38 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "neoforge/v17.1.1-beta": {
+    "tagName": "neoforge/v17.1.1-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.1.1-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12972841,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.1.1-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/151212429"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.1.1-beta-api.jar",
+        "size": 624845,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.1.1-beta/appliedenergistics2-neoforge-17.1.1-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/151212042"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.1.1-beta.jar",
+        "size": 9805632,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.1.1-beta/appliedenergistics2-neoforge-17.1.1-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/151212036"
+      }
+    },
+    "published": "2024-02-12T23:05:18Z",
+    "changelog": "## What's Changed\n* Fix to Divide by 0 Crash by @Nyxane in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7611\n* Fix #7601: Honor `enableFacadesInJEI` with EMI by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7612\n* Use stack-aware getMaxStackSize. Fixes #7589. by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7614\n* Fix #7590: Fix rare endless loop with `alertDevice` by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7613\n\n## New Contributors\n* @Nyxane made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7611\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.1.0-beta...neoforge/v17.1.1-beta",
+    "version": "17.1.1-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
