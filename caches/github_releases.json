@@ -8475,5 +8475,104 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "neoforge/v17.2.0-beta": {
+    "tagName": "neoforge/v17.2.0-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.2.0-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 13163794,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.2.0-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/152222339"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.2.0-beta-api.jar",
+        "size": 625209,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.2.0-beta/appliedenergistics2-neoforge-17.2.0-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/152222204"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.2.0-beta.jar",
+        "size": 9808933,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.2.0-beta/appliedenergistics2-neoforge-17.2.0-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/152222198"
+      }
+    },
+    "published": "2024-02-18T09:59:00Z",
+    "changelog": "## What's Changed\n* Add API to cancel crafting jobs from ICraftingCPU by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7625\n* Number entry fixes: NaN & division with integer result handling by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7629\n* Fix #7522: Fix tiny TNT not passing blockentity to Block.dropResources by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7626\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7622\n* Fix #7552: Invisible facades in guide book by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7624\n* Remove separation between creative fluid and item cells by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7628\n* Enable bundle-like right-click behavior for network tool and wireless terminals by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7635\n* Fix #7621: Energy cells keeping chunks loaded forever by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7623\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.1.1-beta...neoforge/v17.2.0-beta",
+    "version": "17.2.0-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
+  },
+  "forge/v15.0.21": {
+    "tagName": "forge/v15.0.21",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/forge/v15.0.21",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 11717478,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.21/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/152227073"
+      },
+      "api": {
+        "filename": "appliedenergistics2-forge-15.0.21-api.jar",
+        "size": 614835,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.21/appliedenergistics2-forge-15.0.21-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/152226316"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-forge-15.0.21.jar",
+        "size": 9805652,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.21/appliedenergistics2-forge-15.0.21.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/152226313"
+      }
+    },
+    "published": "2024-02-18T10:23:04Z",
+    "changelog": "Fix https://github.com/AppliedEnergistics/Applied-Energistics-2/issues/7621: Energy cells keeping chunks loaded forever by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7623\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/forge/v15.0.20...forge/v15.0.21",
+    "version": "15.0.21",
+    "modLoaders": [
+      "forge"
+    ],
+    "minecraftVersions": [
+      "1.20.1"
+    ]
+  },
+  "fabric/v15.0.21": {
+    "tagName": "fabric/v15.0.21",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/fabric/v15.0.21",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 11459065,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v15.0.21/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/152227179"
+      },
+      "api": {
+        "filename": "appliedenergistics2-fabric-15.0.21-api.jar",
+        "size": 601077,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v15.0.21/appliedenergistics2-fabric-15.0.21-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/152226969"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-fabric-15.0.21.jar",
+        "size": 9907774,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v15.0.21/appliedenergistics2-fabric-15.0.21.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/152226965"
+      }
+    },
+    "published": "2024-02-18T10:23:47Z",
+    "changelog": "## What's Changed\n* Fix #7596: Invisible planes when Continuity emissives are enabled by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7616\n* Fix #7621: Energy cells keeping chunks loaded forever by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7623\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/fabric/v15.0.20...fabric/v15.0.21",
+    "version": "15.0.21",
+    "modLoaders": [
+      "fabric"
+    ],
+    "minecraftVersions": [
+      "1.20.1"
+    ]
   }
 }
