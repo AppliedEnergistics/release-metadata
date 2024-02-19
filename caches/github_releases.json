@@ -8574,5 +8574,38 @@
     "minecraftVersions": [
       "1.20.1"
     ]
+  },
+  "neoforge/v17.3.0-beta": {
+    "tagName": "neoforge/v17.3.0-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.3.0-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 13010062,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.3.0-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/152303190"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.3.0-beta-api.jar",
+        "size": 626036,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.3.0-beta/appliedenergistics2-neoforge-17.3.0-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/152303169"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.3.0-beta.jar",
+        "size": 9810201,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.3.0-beta/appliedenergistics2-neoforge-17.3.0-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/152303165"
+      }
+    },
+    "published": "2024-02-18T22:34:30Z",
+    "changelog": "## What's Changed\n* Add link-status to pattern access terminal screen by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7640\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.2.0-beta...neoforge/v17.3.0-beta",
+    "version": "17.3.0-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
