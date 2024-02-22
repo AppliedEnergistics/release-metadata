@@ -8607,5 +8607,38 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "neoforge/v17.4.0-beta": {
+    "tagName": "neoforge/v17.4.0-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.4.0-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 13063510,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.4.0-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/152850675"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.4.0-beta-api.jar",
+        "size": 601039,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.4.0-beta/appliedenergistics2-neoforge-17.4.0-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/152850262"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.4.0-beta.jar",
+        "size": 9797113,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.4.0-beta/appliedenergistics2-neoforge-17.4.0-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/152850247"
+      }
+    },
+    "published": "2024-02-21T21:04:25Z",
+    "changelog": "## What's Changed\n* Fix cable bus breaking showing particles with missing texture by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7643\n* Update TOP dependency (because why not) by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7645\n* Add config option to disable annihilation plane sky dust generation. Closes #7644. by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7646\n* Allow non-AE2 pattern implementations to be inserted via the pattern terminal by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7647\n* Remove event subsystem copied from Fabric, use event bus instead by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7648\n* make emi transfer handlers public for addon use by @Mari023 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7651\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.3.0-beta...neoforge/v17.4.0-beta",
+    "version": "17.4.0-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
