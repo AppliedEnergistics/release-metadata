@@ -8673,5 +8673,38 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "neoforge/v17.5.1-beta": {
+    "tagName": "neoforge/v17.5.1-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.5.1-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12998535,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.5.1-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153346421"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.5.1-beta-api.jar",
+        "size": 604989,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.5.1-beta/appliedenergistics2-neoforge-17.5.1-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153346291"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.5.1-beta.jar",
+        "size": 9816293,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.5.1-beta/appliedenergistics2-neoforge-17.5.1-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153346288"
+      }
+    },
+    "published": "2024-02-24T15:06:32Z",
+    "changelog": "## What's Changed\n* Update repo on key type change, and fix non-canConfigureTypeFilter() menus by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7667\n* Remove EarlyStartupMixin to make init a bit saner by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7668\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.5.0-beta...neoforge/v17.5.1-beta",
+    "version": "17.5.1-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
