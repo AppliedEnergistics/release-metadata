@@ -8640,5 +8640,38 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "neoforge/v17.5.0-beta": {
+    "tagName": "neoforge/v17.5.0-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.5.0-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12993105,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.5.0-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153279425"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.5.0-beta-api.jar",
+        "size": 604989,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.5.0-beta/appliedenergistics2-neoforge-17.5.0-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153279288"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.5.0-beta.jar",
+        "size": 9816898,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.5.0-beta/appliedenergistics2-neoforge-17.5.0-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153279274"
+      }
+    },
+    "published": "2024-02-24T01:39:09Z",
+    "changelog": "## What's Changed\n* Use getLinkStatus() in WirelessTerminalMenuHost#insert by @Mari023 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7652\n* Add generic key type filtering to terminals and import busses by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7662\n* Expose null item handlers rather than 0-sized dummies by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7664\n* **Breaking change**: Remove alertable flag from TickingRequest by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7665\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.4.0-beta...neoforge/v17.5.0-beta",
+    "version": "17.5.0-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
