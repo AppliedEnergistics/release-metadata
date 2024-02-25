@@ -8706,5 +8706,122 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "neoforge/v17.6.1-beta": {
+    "tagName": "neoforge/v17.6.1-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.6.1-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 13108363,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.6.1-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153475056"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.6.1-beta-api.jar",
+        "size": 607179,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.6.1-beta/appliedenergistics2-neoforge-17.6.1-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153474953"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.6.1-beta.jar",
+        "size": 9818753,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.6.1-beta/appliedenergistics2-neoforge-17.6.1-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153474948"
+      }
+    },
+    "published": "2024-02-25T14:23:27Z",
+    "changelog": "## What's Changed\n* Fix disconnect when opening UI of terminals by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7674\n* Fix transfering recipes to crafting terminal by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7675\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.6.0-beta...neoforge/17.6.1-beta",
+    "version": "17.6.1-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
+  },
+  "neoforge/v17.6.0-beta": {
+    "tagName": "neoforge/v17.6.0-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.6.0-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 13049530,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.6.0-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153466607"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.6.0-beta-api.jar",
+        "size": 607179,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.6.0-beta/appliedenergistics2-neoforge-17.6.0-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153466469"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.6.0-beta.jar",
+        "size": 9818678,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.6.0-beta/appliedenergistics2-neoforge-17.6.0-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153466461"
+      }
+    },
+    "published": "2024-02-25T12:35:39Z",
+    "changelog": "## What's Changed\n* Only allow interaction with the grid when the link status is connected by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7670\n* Wrap the link status text shown in terminal screens by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7672\n* Fix dupe and void bugs when the cell of an ME chest is removed while the menu is open by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7669\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.5.1-beta...neoforge/v17.6.0-beta",
+    "version": "17.6.0-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
+  },
+  "forge/v15.0.22": {
+    "tagName": "forge/v15.0.22",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/forge/v15.0.22",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 11723020,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.22/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153466326"
+      }
+    },
+    "published": "2024-02-25T12:28:29Z",
+    "changelog": "## What's Changed\n* Fix void/dupe when cell is removed from ME chest while the menu is open by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7673\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/forge/v15.0.21...forge/v15.0.22",
+    "version": "15.0.22",
+    "modLoaders": [
+      "forge"
+    ]
+  },
+  "fabric/v15.0.22": {
+    "tagName": "fabric/v15.0.22",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/fabric/v15.0.22",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 11461657,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v15.0.22/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153466406"
+      },
+      "api": {
+        "filename": "appliedenergistics2-fabric-15.0.22-api.jar",
+        "size": 603167,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v15.0.22/appliedenergistics2-fabric-15.0.22-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153466397"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-fabric-15.0.22.jar",
+        "size": 9909357,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v15.0.22/appliedenergistics2-fabric-15.0.22.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153466395"
+      }
+    },
+    "published": "2024-02-25T12:29:51Z",
+    "changelog": "## What's Changed\n* Fix void/dupe when cell is removed from ME chest while the menu is open by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7673\n \n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/fabric/v15.0.21...fabric/v15.0.22",
+    "version": "15.0.22",
+    "modLoaders": [
+      "fabric"
+    ],
+    "minecraftVersions": [
+      "1.20.1"
+    ]
   }
 }
