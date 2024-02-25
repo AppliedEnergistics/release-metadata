@@ -1,5 +1,60 @@
 [
   {
+    "id": 5135449,
+    "filename": "appliedenergistics2-neoforge-17.6.1-beta.jar",
+    "displayName": "AE2 17.6.1-beta [NEOFORGE]",
+    "type": 2,
+    "gameVersions": [
+      "NeoForge",
+      "1.20.4"
+    ],
+    "published": "2024-02-25T14:25:05.593Z"
+  },
+  {
+    "id": 5135223,
+    "filename": "appliedenergistics2-neoforge-17.6.0-beta.jar",
+    "displayName": "AE2 17.6.0-beta [NEOFORGE]",
+    "type": 2,
+    "gameVersions": [
+      "NeoForge",
+      "1.20.4"
+    ],
+    "published": "2024-02-25T12:37:36.863Z"
+  },
+  {
+    "id": 5135219,
+    "filename": "appliedenergistics2-fabric-15.0.22.jar",
+    "displayName": "AE2 15.0.22 [FABRIC]",
+    "type": 1,
+    "gameVersions": [
+      "Fabric",
+      "1.20.1"
+    ],
+    "published": "2024-02-25T12:36:52.847Z"
+  },
+  {
+    "id": 5132849,
+    "filename": "appliedenergistics2-neoforge-17.5.1-beta.jar",
+    "displayName": "AE2 17.5.1-beta [NEOFORGE]",
+    "type": 2,
+    "gameVersions": [
+      "NeoForge",
+      "1.20.4"
+    ],
+    "published": "2024-02-24T15:08:21.77Z"
+  },
+  {
+    "id": 5131741,
+    "filename": "appliedenergistics2-neoforge-17.5.0-beta.jar",
+    "displayName": "AE2 17.5.0-beta [NEOFORGE]",
+    "type": 2,
+    "gameVersions": [
+      "NeoForge",
+      "1.20.4"
+    ],
+    "published": "2024-02-24T01:41:04.317Z"
+  },
+  {
     "id": 5126353,
     "filename": "appliedenergistics2-neoforge-17.4.0-beta.jar",
     "displayName": "AE2 17.4.0-beta [NEOFORGE]",
