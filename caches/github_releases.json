@@ -8823,5 +8823,38 @@
     "minecraftVersions": [
       "1.20.1"
     ]
+  },
+  "neoforge/v17.6.2-beta": {
+    "tagName": "neoforge/v17.6.2-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.6.2-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 13025596,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.6.2-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153499362"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.6.2-beta-api.jar",
+        "size": 608329,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.6.2-beta/appliedenergistics2-neoforge-17.6.2-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153499257"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.6.2-beta.jar",
+        "size": 9819595,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.6.2-beta/appliedenergistics2-neoforge-17.6.2-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/153499252"
+      }
+    },
+    "published": "2024-02-25T18:56:24Z",
+    "changelog": "## What's Changed\n* Fix issue with energy source in terminals after terminal changes by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7677\n* Implement awarding of crafted recipes advancement in crafting terminal by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7678\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.6.1-beta...neoforge/v17.6.2-beta",
+    "version": "17.6.2-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
