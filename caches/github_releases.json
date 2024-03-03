@@ -8856,5 +8856,38 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "neoforge/v17.6.3-beta": {
+    "tagName": "neoforge/v17.6.3-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.6.3-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 13042569,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.6.3-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/154591386"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.6.3-beta-api.jar",
+        "size": 610782,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.6.3-beta/appliedenergistics2-neoforge-17.6.3-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/154591355"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.6.3-beta.jar",
+        "size": 9821296,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.6.3-beta/appliedenergistics2-neoforge-17.6.3-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/154591352"
+      }
+    },
+    "published": "2024-03-02T21:41:23Z",
+    "changelog": "## What's Changed\n* Fix handling of container items that can contain multiple key types by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7666\n* Remove Platform Random, use Level Random wherever applicable by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7685\n* Improve Markdown loading performance under FML by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7690\n* Fix dedicated servers disconnecting players trying to view large ME inventories by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7691\n* Delay DebugItemGen Initialization by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7692\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.6.2-beta...neoforge/v17.6.3-beta",
+    "version": "17.6.3-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
