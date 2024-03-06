@@ -8955,5 +8955,38 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "neoforge/v17.6.6-beta": {
+    "tagName": "neoforge/v17.6.6-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.6.6-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12976009,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.6.6-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/155190189"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.6.6-beta-api.jar",
+        "size": 610782,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.6.6-beta/appliedenergistics2-neoforge-17.6.6-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/155190081"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.6.6-beta.jar",
+        "size": 9820804,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.6.6-beta/appliedenergistics2-neoforge-17.6.6-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/155190078"
+      }
+    },
+    "published": "2024-03-06T10:36:19Z",
+    "changelog": "## What's Changed\n* Fix network tool immediately closing its UI by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7704\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.6.5-beta...neoforge/v17.6.6-beta",
+    "version": "17.6.6-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
