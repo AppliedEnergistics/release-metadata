@@ -8988,5 +8988,38 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "neoforge/v17.7.0-alpha": {
+    "tagName": "neoforge/v17.7.0-alpha",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.7.0-alpha",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 13030460,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.7.0-alpha/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/155393669"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.7.0-alpha-api.jar",
+        "size": 612426,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.7.0-alpha/appliedenergistics2-neoforge-17.7.0-alpha-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/155393542"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.7.0-alpha.jar",
+        "size": 9847965,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.7.0-alpha/appliedenergistics2-neoforge-17.7.0-alpha.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/155393539"
+      }
+    },
+    "published": "2024-03-07T10:45:37Z",
+    "changelog": "## New Block: Crystal Resonance Generator\n\n- Generates 5 AE/t passively\n- Only one per energy grid is allowed. This also means across grids connected with quartz fiber, only one will be active\n- If a generator is suppressed by another on the same grid, it has a tooltip in Jade\n- Generation rate is configurable\n\n![image](https://github.com/AppliedEnergistics/Applied-Energistics-2/assets/1261399/ef30f583-1e6e-4e9d-90f2-9c4174fdc138)\n\n![image](https://github.com/AppliedEnergistics/Applied-Energistics-2/assets/1261399/7cd0c5b3-9b52-4f48-ae4c-5ea9676a47f0)\n\n## What's Changed\n* Space+Click now only moves slots from the same group as the clicked slot by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7710\n* Fix auto-crafting completion toast having broken background by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7711\n* Fix crafting highlight in the pinned slot row in terminals by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7712\n* Improve tracking of \"missing ingredients\" when performing recipe transfer from REI/EMI on dedicated servers by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7714\n* Fix link-status overlay not matching number of visible rows in pattern access terminal by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7715\n* Implement a crystal resonance generator (passive power generation for AE) by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7716\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.6.6-beta...neoforge/v17.7.0-alpha",
+    "version": "17.7.0-alpha",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
