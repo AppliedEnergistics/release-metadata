@@ -9054,5 +9054,65 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "forge/v15.0.23": {
+    "tagName": "forge/v15.0.23",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/forge/v15.0.23",
+    "assets": {
+      "api": {
+        "filename": "appliedenergistics2-forge-15.0.23-api.jar",
+        "size": 616925,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.23/appliedenergistics2-forge-15.0.23-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/155786472"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-forge-15.0.23.jar",
+        "size": 9808970,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.0.23/appliedenergistics2-forge-15.0.23.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/155786470"
+      }
+    },
+    "published": "2024-03-09T15:05:44Z",
+    "changelog": "## What's Changed\n* Fix #7590: Fix rare endless loop with alertDevice [Forge 1.20.1] by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7730\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/forge/v15.0.22...forge/v15.0.23",
+    "version": "15.0.23",
+    "modLoaders": [
+      "forge"
+    ],
+    "minecraftVersions": [
+      "1.20.1"
+    ]
+  },
+  "fabric/v15.0.23": {
+    "tagName": "fabric/v15.0.23",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/fabric/v15.0.23",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 11475986,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v15.0.23/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/155786255"
+      },
+      "api": {
+        "filename": "appliedenergistics2-fabric-15.0.23-api.jar",
+        "size": 603167,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v15.0.23/appliedenergistics2-fabric-15.0.23-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/155786294"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-fabric-15.0.23.jar",
+        "size": 9911204,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v15.0.23/appliedenergistics2-fabric-15.0.23.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/155786288"
+      }
+    },
+    "published": "2024-03-09T15:06:07Z",
+    "changelog": "## What's Changed\n* Fix #7590: Fix rare endless loop with alertDevice [Fabric 1.20.1] by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7731\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/fabric/v15.0.22...fabric/v15.0.23",
+    "version": "15.0.23",
+    "modLoaders": [
+      "fabric"
+    ],
+    "minecraftVersions": [
+      "1.20.1"
+    ]
   }
 }
