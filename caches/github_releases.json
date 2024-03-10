@@ -9114,5 +9114,38 @@
     "minecraftVersions": [
       "1.20.1"
     ]
+  },
+  "neoforge/v17.8.0-beta": {
+    "tagName": "neoforge/v17.8.0-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.8.0-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12984120,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.8.0-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/155808849"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.8.0-beta-api.jar",
+        "size": 612392,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.8.0-beta/appliedenergistics2-neoforge-17.8.0-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/155808735"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.8.0-beta.jar",
+        "size": 9858182,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.8.0-beta/appliedenergistics2-neoforge-17.8.0-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/155808732"
+      }
+    },
+    "published": "2024-03-09T19:02:05Z",
+    "changelog": "## What's Changed\n* Work around a Vanilla bug that causes structures to be placed twice in CI tests by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7728\n* Use FakePlayerFactory instead of our own (buggy) FakePlayer cache by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7727\n* Crystal Resonance Generator model tweaks by @Sea-Kerman in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7725\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7719\n* Make Storage Bus react to capability invalidation by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7729\n* Fix GUI of ME Chest incorrectly thinking it is out of power by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7733\n* Make the growth accelerator accept FE directly by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7734\n* Prevent the cursor from re-centering when switching between AE2 screens by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7735\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.7.1-beta...neoforge/v17.8.0-beta",
+    "version": "17.8.0-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
