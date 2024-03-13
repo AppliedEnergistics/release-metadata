@@ -9180,5 +9180,71 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "neoforge/v17.10.0-beta": {
+    "tagName": "neoforge/v17.10.0-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.10.0-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 13081976,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.10.0-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/156384126"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.10.0-beta-api.jar",
+        "size": 613684,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.10.0-beta/appliedenergistics2-neoforge-17.10.0-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/156383601"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.10.0-beta.jar",
+        "size": 9849010,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.10.0-beta/appliedenergistics2-neoforge-17.10.0-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/156383597"
+      }
+    },
+    "published": "2024-03-13T01:50:48Z",
+    "changelog": "## What's Changed\n* Added a configurable key-bind for the modifier used by mouse-wheel items (color applicator) by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7758\n* Generalize ghost ingredient drag&drop over REI/EMI by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7759\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.9.0-beta...neoforge/v17.10.0-beta",
+    "version": "17.10.0-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
+  },
+  "neoforge/v17.9.0-beta": {
+    "tagName": "neoforge/v17.9.0-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.9.0-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 13024201,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.9.0-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/156333593"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.9.0-beta-api.jar",
+        "size": 613684,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.9.0-beta/appliedenergistics2-neoforge-17.9.0-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/156333494"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.9.0-beta.jar",
+        "size": 9851581,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.9.0-beta/appliedenergistics2-neoforge-17.9.0-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/156333489"
+      }
+    },
+    "published": "2024-03-12T19:29:15Z",
+    "changelog": "## What's Changed\n* Add sounds to Facade placement based on underlying block and rework pickup sound for wrenches by @dokastho in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7056\n* Fix bugs that allow crafting with ingredients from the network when a crafting terminal is disconnected by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7745\n* Highlight invalid patterns in the pattern access terminal by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7746\n* Slight encoded pattern tooltip readability improvement by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7747\n* Allow crafting of quartz fixtures from cable anchors to replace iron ingots by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7748\n* Highlight devices that are missing a channel on the network status UI by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7749\n* Show the energy generation capacity of machines in the network status by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7750\n* Pattern providers now only push ingredients for crafting patterns to molecular assemblers, not other inventories by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7751\n* Only allow the configured fluid/item in configured interface slots by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7752\n* Fix blocks behind hidden facades being non-interactable by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7754\n* Always hide facades when a network tool is held in either hand by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7755\n* Implement mouse capture to allow 3d scenes in the guidebook to be more easily rotated/panned by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7756\n* Export default configuration values for use in the website by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7757\n\n## New Contributors\n* @dokastho made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7056\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.8.1-beta...neoforge/v17.9.0-beta",
+    "version": "17.9.0-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
