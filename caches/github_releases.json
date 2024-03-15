@@ -9246,5 +9246,104 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "neoforge/v17.10.3-beta": {
+    "tagName": "neoforge/v17.10.3-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.10.3-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 13060675,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.10.3-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/156751896"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.10.3-beta-api.jar",
+        "size": 614686,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.10.3-beta/appliedenergistics2-neoforge-17.10.3-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/156751789"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.10.3-beta.jar",
+        "size": 9863906,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.10.3-beta/appliedenergistics2-neoforge-17.10.3-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/156751784"
+      }
+    },
+    "published": "2024-03-14T23:12:08Z",
+    "changelog": "## What's Changed\n* Fix accidentally disabling recipe transfer entirely in EMI by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7765\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.10.2-beta...neoforge/v17.10.3-beta",
+    "version": "17.10.3-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
+  },
+  "neoforge/v17.10.2-beta": {
+    "tagName": "neoforge/v17.10.2-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.10.2-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 13058744,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.10.2-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/156734006"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.10.2-beta-api.jar",
+        "size": 614686,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.10.2-beta/appliedenergistics2-neoforge-17.10.2-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/156733774"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.10.2-beta.jar",
+        "size": 9863734,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.10.2-beta/appliedenergistics2-neoforge-17.10.2-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/156733771"
+      }
+    },
+    "published": "2024-03-14T20:56:01Z",
+    "changelog": "## What's Changed\n* Disable craftables for grids in EMI due to the inability to refresh the craftables view when the grid inventory changes by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7764\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.10.1-beta...neoforge/v17.10.2-beta",
+    "version": "17.10.2-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
+  },
+  "neoforge/v17.10.1-beta": {
+    "tagName": "neoforge/v17.10.1-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.10.1-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 13063570,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.10.1-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/156723324"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.10.1-beta-api.jar",
+        "size": 614686,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.10.1-beta/appliedenergistics2-neoforge-17.10.1-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/156723122"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.10.1-beta.jar",
+        "size": 9862042,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.10.1-beta/appliedenergistics2-neoforge-17.10.1-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/156723120"
+      }
+    },
+    "published": "2024-03-14T19:27:06Z",
+    "changelog": "## What's Changed\n* Add event to allow addons to spawn additional \"grid tools\" into a chest next to a test-plot by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7760\n* Sanitize item caps when an AEItemKey is loaded by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7762\n* Optimize performance of \"can craft\" checks in ME Terminals (for EMI/JEI/REI) by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7763\n* Make Cell Workbench respect slot-level filters when copying filters to cells by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7761\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.10.0-beta...neoforge/v17.11.0-beta",
+    "version": "17.10.1-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
