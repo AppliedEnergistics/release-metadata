@@ -1,5 +1,38 @@
 [
   {
+    "id": 5183299,
+    "filename": "appliedenergistics2-neoforge-17.10.3-beta.jar",
+    "displayName": "AE2 17.10.3-beta [NEOFORGE]",
+    "type": 2,
+    "gameVersions": [
+      "NeoForge",
+      "1.20.4"
+    ],
+    "published": "2024-03-14T23:13:58.96Z"
+  },
+  {
+    "id": 5182951,
+    "filename": "appliedenergistics2-neoforge-17.10.2-beta.jar",
+    "displayName": "AE2 17.10.2-beta [NEOFORGE]",
+    "type": 2,
+    "gameVersions": [
+      "NeoForge",
+      "1.20.4"
+    ],
+    "published": "2024-03-14T20:59:22.637Z"
+  },
+  {
+    "id": 5182753,
+    "filename": "appliedenergistics2-neoforge-17.10.1-beta.jar",
+    "displayName": "AE2 17.10.1-beta [NEOFORGE]",
+    "type": 2,
+    "gameVersions": [
+      "NeoForge",
+      "1.20.4"
+    ],
+    "published": "2024-03-14T19:31:39.07Z"
+  },
+  {
     "id": 5178403,
     "filename": "appliedenergistics2-neoforge-17.10.0-beta.jar",
     "displayName": "AE2 17.10.0-beta [NEOFORGE]",
