@@ -9345,5 +9345,38 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "neoforge/v17.10.4-beta": {
+    "tagName": "neoforge/v17.10.4-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.10.4-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 13035453,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.10.4-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/157031405"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.10.4-beta-api.jar",
+        "size": 614686,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.10.4-beta/appliedenergistics2-neoforge-17.10.4-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/157031285"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.10.4-beta.jar",
+        "size": 9863789,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.10.4-beta/appliedenergistics2-neoforge-17.10.4-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/157031278"
+      }
+    },
+    "published": "2024-03-16T17:47:26Z",
+    "changelog": "## What's Changed\n* Tunnels should not disconnect when they were active but moved to a grid that is rebooting (causes reboot loop) by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7767\n* Fix default namespace system property for in-development guidebook content for addons. by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7772\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.10.3-beta...neoforge/v17.10.4-beta",
+    "version": "17.10.4-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
