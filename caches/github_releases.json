@@ -9444,5 +9444,38 @@
     "modLoaders": [
       "forge"
     ]
+  },
+  "neoforge/v17.12.0-beta": {
+    "tagName": "neoforge/v17.12.0-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v17.12.0-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 13002599,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.12.0-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/157936882"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-17.12.0-beta-api.jar",
+        "size": 627373,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.12.0-beta/appliedenergistics2-neoforge-17.12.0-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/157936690"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-17.12.0-beta.jar",
+        "size": 9777939,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v17.12.0-beta/appliedenergistics2-neoforge-17.12.0-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/157936685"
+      }
+    },
+    "published": "2024-03-21T18:49:07Z",
+    "changelog": "## What's Changed\n* Fix fragment parsing for linking to pages in other namespaces by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7783\n* Show the source of external content in the guidebook by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7784\n* Add guidebook to drops of mysterious cube by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7785\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.11.1-beta...neoforge/v17.12.0-beta",
+    "version": "17.12.0-beta",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "modLoaders": [
+      "forge"
+    ]
   }
 }
