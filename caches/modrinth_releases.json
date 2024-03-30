@@ -1,5 +1,19 @@
 [
   {
+    "id": "OK01nNQM",
+    "displayName": "AE2 17.13.0-beta [NEOFORGE]",
+    "version": "17.13.0-beta",
+    "type": "beta",
+    "gameVersions": [
+      "1.20.4"
+    ],
+    "published": "2024-03-29T17:59:49.955467Z",
+    "filename": "appliedenergistics2-neoforge-17.13.0-beta.jar",
+    "loaders": [
+      "neoforge"
+    ]
+  },
+  {
     "id": "EtNeQMla",
     "displayName": "AE2 17.12.1-beta [NEOFORGE]",
     "version": "17.12.1-beta",
