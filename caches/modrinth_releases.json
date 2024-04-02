@@ -1,5 +1,20 @@
 [
   {
+    "id": "WIIZmqs6",
+    "displayName": "AE2 15.1.0 [NEOFORGE]",
+    "version": "15.1.0",
+    "type": "release",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "published": "2024-04-01T22:38:58.959267Z",
+    "filename": "appliedenergistics2-forge-15.1.0.jar",
+    "loaders": [
+      "forge",
+      "neoforge"
+    ]
+  },
+  {
     "id": "OK01nNQM",
     "displayName": "AE2 17.13.0-beta [NEOFORGE]",
     "version": "17.13.0-beta",
