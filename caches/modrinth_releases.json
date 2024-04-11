@@ -1,5 +1,20 @@
 [
   {
+    "id": "isHbiIeZ",
+    "displayName": "AE2 15.1.1 [NEOFORGE]",
+    "version": "15.1.1",
+    "type": "release",
+    "gameVersions": [
+      "1.20.1"
+    ],
+    "published": "2024-04-11T07:06:27.284283Z",
+    "filename": "appliedenergistics2-forge-15.1.1.jar",
+    "loaders": [
+      "forge",
+      "neoforge"
+    ]
+  },
+  {
     "id": "kywcQ25B",
     "displayName": "AE2 15.1.0 [FABRIC]",
     "version": "15.1.0",
