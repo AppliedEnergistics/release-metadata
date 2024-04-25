@@ -9669,5 +9669,31 @@
     "minecraftVersions": [
       "1.20.1"
     ]
+  },
+  "neoforge/v18.0.0-alpha": {
+    "tagName": "neoforge/v18.0.0-alpha",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v18.0.0-alpha",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 13426149,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v18.0.0-alpha/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/164050414"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-18.0.0-alpha-api.jar",
+        "size": 662206,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v18.0.0-alpha/appliedenergistics2-neoforge-18.0.0-alpha-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/164050171"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-18.0.0-alpha.jar",
+        "size": 9895603,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v18.0.0-alpha/appliedenergistics2-neoforge-18.0.0-alpha.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/164050160"
+      }
+    },
+    "published": "2024-04-24T21:06:55Z",
+    "changelog": "## What's Changed\n\nFirst release for Minecraft 1.20.5\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v17.13.0-beta...neoforge/v18.0.0-alpha"
   }
 }
