@@ -9721,5 +9721,31 @@
     },
     "published": "2024-04-28T12:46:48Z",
     "changelog": "**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v18.0.0-alpha...neoforge/v18.0.1-alpha"
+  },
+  "neoforge/v18.1.0-alpha": {
+    "tagName": "neoforge/v18.1.0-alpha",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v18.1.0-alpha",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 13447443,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v18.1.0-alpha/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/164999090"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-18.1.0-alpha-api.jar",
+        "size": 662157,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v18.1.0-alpha/appliedenergistics2-neoforge-18.1.0-alpha-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/164998883"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-18.1.0-alpha.jar",
+        "size": 9895057,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v18.1.0-alpha/appliedenergistics2-neoforge-18.1.0-alpha.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/164998879"
+      }
+    },
+    "published": "2024-04-29T21:54:05Z",
+    "changelog": "## What's Changed\n* Port to 1.20.6 by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7846\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v18.0.1-alpha...neoforge/v18.1.0-alpha"
   }
 }
