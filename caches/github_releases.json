@@ -9984,5 +9984,31 @@
     "minecraftVersions": [
       "1.20.1"
     ]
+  },
+  "neoforge/v19.0.0-alpha": {
+    "tagName": "neoforge/v19.0.0-alpha",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v19.0.0-alpha",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12189937,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.0-alpha/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/174107903"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-19.0.0-alpha-api.jar",
+        "size": 662480,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.0-alpha/appliedenergistics2-neoforge-19.0.0-alpha-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/174107649"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-19.0.0-alpha.jar",
+        "size": 9492664,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.0-alpha/appliedenergistics2-neoforge-19.0.0-alpha.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/174107638"
+      }
+    },
+    "published": "2024-06-16T12:39:32Z",
+    "changelog": "## What's Changed\n* Port to 1.21 by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7909\n* AE2 New Textures by @Ridanisaurus in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7870\n* Add Fill all and Empty All Container Actions by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7891\n* Change to c:tools/wrenches to be in line with plural form of other tags under tools/ by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7892\n* Fix some misspellings in guidebook by @lupusagax in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7903\n* Guidebook by @Sea-Kerman in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7908\n\n## New Contributors\n* @lupusagax made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7903\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v18.1.3-alpha...neoforge/v19.0.0-alpha"
   }
 }
