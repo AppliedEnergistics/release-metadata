@@ -10010,5 +10010,57 @@
     },
     "published": "2024-06-16T12:39:32Z",
     "changelog": "## What's Changed\n* Port to 1.21 by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7909\n* AE2 New Textures by @Ridanisaurus in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7870\n* Add Fill all and Empty All Container Actions by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7891\n* Change to c:tools/wrenches to be in line with plural form of other tags under tools/ by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7892\n* Fix some misspellings in guidebook by @lupusagax in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7903\n* Guidebook by @Sea-Kerman in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7908\n\n## New Contributors\n* @lupusagax made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7903\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v18.1.3-alpha...neoforge/v19.0.0-alpha"
+  },
+  "neoforge/v19.0.2-alpha": {
+    "tagName": "neoforge/v19.0.2-alpha",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v19.0.2-alpha",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12188760,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.2-alpha/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/174178650"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-19.0.2-alpha-api.jar",
+        "size": 662480,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.2-alpha/appliedenergistics2-neoforge-19.0.2-alpha-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/174178586"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-19.0.2-alpha.jar",
+        "size": 9499099,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.2-alpha/appliedenergistics2-neoforge-19.0.2-alpha.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/174178581"
+      }
+    },
+    "published": "2024-06-16T23:54:04Z",
+    "changelog": "## What's Changed\n* Fix Tiny TNT not responding to flint & steel and rendering with new block model by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7916\n* Fix potential world-gen crashes arising from always sampling the biome at the meteorite center by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7918\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7868\n* Fix memory card tooltip not showing P2P frequency by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7847\n* Fix custom names for parts by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7921\n* Show the P2P frequency in tooltips using the colors used on the P2P tunnels back by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7922\n* Improved ME Terminal Search to be more similar to REI/EMI by @JoelMorrisey in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7883\n\n## New Contributors\n* @JoelMorrisey made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7883\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.1-alpha...neoforge/v19.0.2-alpha"
+  },
+  "neoforge/v19.0.1-alpha": {
+    "tagName": "neoforge/v19.0.1-alpha",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v19.0.1-alpha",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12187013,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.1-alpha/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/174149228"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-19.0.1-alpha-api.jar",
+        "size": 662480,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.1-alpha/appliedenergistics2-neoforge-19.0.1-alpha-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/174149153"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-19.0.1-alpha.jar",
+        "size": 9492974,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.1-alpha/appliedenergistics2-neoforge-19.0.1-alpha.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/174149151"
+      }
+    },
+    "published": "2024-06-16T19:39:03Z",
+    "changelog": "## What's Changed\n* Fix #7913: Color Applicator sets the wrong color for some colors by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7914\n* Bump to latest Jade/REI/WTHIT by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7917\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.0-alpha...neoforge/v19.0.1-alpha"
   }
 }
