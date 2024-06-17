@@ -1,5 +1,33 @@
 [
   {
+    "id": "Q6wAB4Fm",
+    "displayName": "AE2 19.0.2-alpha [NEOFORGE]",
+    "version": "19.0.2-alpha",
+    "type": "alpha",
+    "gameVersions": [
+      "1.21"
+    ],
+    "published": "2024-06-16T23:55:55.271948Z",
+    "filename": "appliedenergistics2-neoforge-19.0.2-alpha.jar",
+    "loaders": [
+      "neoforge"
+    ]
+  },
+  {
+    "id": "WTviSGxg",
+    "displayName": "AE2 19.0.1-alpha [NEOFORGE]",
+    "version": "19.0.1-alpha",
+    "type": "alpha",
+    "gameVersions": [
+      "1.21"
+    ],
+    "published": "2024-06-16T19:42:12.787749Z",
+    "filename": "appliedenergistics2-neoforge-19.0.1-alpha.jar",
+    "loaders": [
+      "neoforge"
+    ]
+  },
+  {
     "id": "4AsGT2cN",
     "displayName": "AE2 19.0.0-alpha [NEOFORGE]",
     "version": "19.0.0-alpha",
