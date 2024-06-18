@@ -10062,5 +10062,31 @@
     },
     "published": "2024-06-16T19:39:03Z",
     "changelog": "## What's Changed\n* Fix #7913: Color Applicator sets the wrong color for some colors by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7914\n* Bump to latest Jade/REI/WTHIT by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7917\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.0-alpha...neoforge/v19.0.1-alpha"
+  },
+  "neoforge/v19.0.3-alpha": {
+    "tagName": "neoforge/v19.0.3-alpha",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v19.0.3-alpha",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12181093,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.3-alpha/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/174371749"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-19.0.3-alpha-api.jar",
+        "size": 662480,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.3-alpha/appliedenergistics2-neoforge-19.0.3-alpha-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/174371643"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-19.0.3-alpha.jar",
+        "size": 9499346,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.3-alpha/appliedenergistics2-neoforge-19.0.3-alpha.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/174371641"
+      }
+    },
+    "published": "2024-06-17T23:23:20Z",
+    "changelog": "## What's Changed\n* Fix Z-Order in icon buttons and item icons by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7923\n* Fixes various crafting related problems by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7928\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.2-alpha...neoforge/v19.0.3-alpha"
   }
 }
