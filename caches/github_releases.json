@@ -10088,5 +10088,31 @@
     },
     "published": "2024-06-17T23:23:20Z",
     "changelog": "## What's Changed\n* Fix Z-Order in icon buttons and item icons by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7923\n* Fixes various crafting related problems by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7928\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.2-alpha...neoforge/v19.0.3-alpha"
+  },
+  "neoforge/v19.0.4-alpha": {
+    "tagName": "neoforge/v19.0.4-alpha",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v19.0.4-alpha",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12199093,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.4-alpha/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/174585634"
+      },
+      "api": {
+        "filename": "appliedenergistics2-neoforge-19.0.4-alpha-api.jar",
+        "size": 662480,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.4-alpha/appliedenergistics2-neoforge-19.0.4-alpha-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/174585502"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-neoforge-19.0.4-alpha.jar",
+        "size": 9499370,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.4-alpha/appliedenergistics2-neoforge-19.0.4-alpha.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/174585499"
+      }
+    },
+    "published": "2024-06-18T22:59:40Z",
+    "changelog": "## What's Changed\n\n* Fix charger voiding items on right-click by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7942\n* Fix Spatial IO Port opening the wrong menu by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7932\n* Fix player inventory slot misalignment in Quantum Bridge GUI by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7933\n* Fix cables briefly connecting to incomplete Quantum Ring by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7941\n\n## New Contributors\n* @Kazuhiko-Gushiken made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7929\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.3-alpha...neoforge/v19.0.4-alpha"
   }
 }
