@@ -10114,5 +10114,38 @@
     },
     "published": "2024-06-18T22:59:40Z",
     "changelog": "## What's Changed\n\n* Fix charger voiding items on right-click by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7942\n* Fix Spatial IO Port opening the wrong menu by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7932\n* Fix player inventory slot misalignment in Quantum Bridge GUI by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7933\n* Fix cables briefly connecting to incomplete Quantum Ring by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7941\n\n## New Contributors\n* @Kazuhiko-Gushiken made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7929\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.3-alpha...neoforge/v19.0.4-alpha"
+  },
+  "forge/v15.2.4": {
+    "tagName": "forge/v15.2.4",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/forge/v15.2.4",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 11837269,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.2.4/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/174794931"
+      },
+      "api": {
+        "filename": "appliedenergistics2-forge-15.2.4-api.jar",
+        "size": 623590,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.2.4/appliedenergistics2-forge-15.2.4-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/174794752"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-forge-15.2.4.jar",
+        "size": 9737144,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.2.4/appliedenergistics2-forge-15.2.4.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/174794749"
+      }
+    },
+    "published": "2024-06-19T22:47:37Z",
+    "changelog": "## What's Changed\n* Work around REIPC incompatibility by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7947\n* Improved ME Terminal Search to be more similar to REI/EMI (Forge) by @JoelMorrisey in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7924\n* Sanitise texture item IDs for facades (Forge) by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7906\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/forge/v15.2.3...forge/v15.2.4",
+    "version": "15.2.4",
+    "modLoaders": [
+      "forge"
+    ],
+    "minecraftVersions": [
+      "1.20.1"
+    ]
   }
 }
