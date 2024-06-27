@@ -10173,5 +10173,31 @@
     },
     "published": "2024-06-24T01:21:13Z",
     "changelog": "## What's Changed\n* Add AE2 walls to the wall item tag by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7952\n* Fix FacadeRecipe out of bound crashes by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7954\n* Fix P2P Light output not updating when input is removed by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7945\n* Fix fluid handling for Emi integration by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7960\n* Gradle magic by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7961\n* Fix clearing of memory card by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7964\n* Fix Spatial Anchor overlay rendering by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7955\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.4-alpha...neoforge/v19.0.5-alpha"
+  },
+  "neoforge/v19.0.6-alpha": {
+    "tagName": "neoforge/v19.0.6-alpha",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v19.0.6-alpha",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12196566,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.6-alpha/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/176196833"
+      },
+      "api": {
+        "filename": "appliedenergistics2-19.0.6-alpha-api.jar",
+        "size": 662480,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.6-alpha/appliedenergistics2-19.0.6-alpha-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/176196732"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-19.0.6-alpha.jar",
+        "size": 9503151,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.6-alpha/appliedenergistics2-19.0.6-alpha.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/176196730"
+      }
+    },
+    "published": "2024-06-27T02:56:57Z",
+    "changelog": "## What's Changed\n* Fix \"open guide\" hotkey not working for items in Emi because they were changing each frame by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7965\n* Textures Update by @Ridanisaurus in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7966\n* Switch to Biome for JSON formatting by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7967\n* Bump NeoForge/Plugin versions by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7974\n* Make Release Workflow use Maven Publish Action by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7977\n* Do not rotate main camera when rendering overlays, messing up rotations for other mods by @mysticdrew in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7976\n\n## New Contributors\n* @mysticdrew made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7976\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.5-alpha...neoforge/v19.0.6-alpha"
   }
 }
