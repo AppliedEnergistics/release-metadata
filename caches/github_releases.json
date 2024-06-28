@@ -10199,5 +10199,31 @@
     },
     "published": "2024-06-27T02:56:57Z",
     "changelog": "## What's Changed\n* Fix \"open guide\" hotkey not working for items in Emi because they were changing each frame by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7965\n* Textures Update by @Ridanisaurus in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7966\n* Switch to Biome for JSON formatting by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7967\n* Bump NeoForge/Plugin versions by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7974\n* Make Release Workflow use Maven Publish Action by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7977\n* Do not rotate main camera when rendering overlays, messing up rotations for other mods by @mysticdrew in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7976\n\n## New Contributors\n* @mysticdrew made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7976\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.5-alpha...neoforge/v19.0.6-alpha"
+  },
+  "neoforge/v19.0.7-alpha": {
+    "tagName": "neoforge/v19.0.7-alpha",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v19.0.7-alpha",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12205403,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.7-alpha/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/176349320"
+      },
+      "api": {
+        "filename": "appliedenergistics2-19.0.7-alpha-api.jar",
+        "size": 666270,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.7-alpha/appliedenergistics2-19.0.7-alpha-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/176349142"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-19.0.7-alpha.jar",
+        "size": 9523660,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.7-alpha/appliedenergistics2-19.0.7-alpha.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/176349140"
+      }
+    },
+    "published": "2024-06-27T20:26:34Z",
+    "changelog": "## What's Changed\n* Use registry enabled codecs more consistently to fix saving enchanted parts by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7979\n* Added Turkish Translation (thanks Serhan and Sona Morningstar!)\n* Implement fault tolerant de-/serialization of AE stacks to no longer void entire drives if they contain broken content by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7982\n* Fix encoded stonecutting and smithing patterns crashing when being used by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7983\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.6-alpha...neoforge/v19.0.7-alpha"
   }
 }
