@@ -10312,5 +10312,31 @@
     "minecraftVersions": [
       "1.20.1"
     ]
+  },
+  "neoforge/v19.0.8-alpha": {
+    "tagName": "neoforge/v19.0.8-alpha",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v19.0.8-alpha",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12210354,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.8-alpha/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/176857881"
+      },
+      "api": {
+        "filename": "appliedenergistics2-19.0.8-alpha-api.jar",
+        "size": 666270,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.8-alpha/appliedenergistics2-19.0.8-alpha-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/176857431"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-19.0.8-alpha.jar",
+        "size": 9523129,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.8-alpha/appliedenergistics2-19.0.8-alpha.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/176857429"
+      }
+    },
+    "published": "2024-06-30T21:22:25Z",
+    "changelog": "## What's Changed\n* Updated Russian Translation by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7984\n* Fix GUI for formation plane, import bus and export bus by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7989\n* Re-add cullface to fix lighting of ME drives by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7990\n* Remove the ability to craft from a pattern encoding terminal, fixing free crafting in the process by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7991\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.7-alpha...neoforge/v19.0.8-alpha"
   }
 }
