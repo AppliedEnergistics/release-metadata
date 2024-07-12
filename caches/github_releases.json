@@ -10430,5 +10430,71 @@
     },
     "published": "2024-07-11T20:49:46Z",
     "changelog": "## What's Changed\n* Fix quartz knives being immediately consumed on use by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8001\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7997\n* Set a minimum row count of 2 for the Pattern Access Terminal by @Mari023 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8010\n* Update to NeoForge 21.0.86-beta by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8023\n\n## API / Internal Changes\n* Rename \"Chest\" to \"MEChest\" in the code wherever possible. by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7994\n* Removed concept of \"ICellGuiHandler\". ME chests will now always open a terminal view for all cell types. by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7996\n* Add a getter for visible rows in terminal screens by @Mari023 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8009\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.8-alpha...neoforge/v19.0.9-alpha"
+  },
+  "forge/v15.2.9": {
+    "tagName": "forge/v15.2.9",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/forge/v15.2.9",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 11825570,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.2.9/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/179166711"
+      },
+      "api": {
+        "filename": "appliedenergistics2-forge-15.2.9-api.jar",
+        "size": 623590,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.2.9/appliedenergistics2-forge-15.2.9-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/179166426"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-forge-15.2.9.jar",
+        "size": 9737876,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/forge/v15.2.9/appliedenergistics2-forge-15.2.9.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/179166422"
+      }
+    },
+    "published": "2024-07-12T09:40:43Z",
+    "changelog": "## What's Changed\n* Improve performance of updating the recipe in crafting terminals by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8026\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/forge/v15.2.8...forge/v15.2.9",
+    "version": "15.2.9",
+    "modLoaders": [
+      "forge"
+    ],
+    "minecraftVersions": [
+      "1.20.1"
+    ]
+  },
+  "fabric/v15.2.9": {
+    "tagName": "fabric/v15.2.9",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/fabric/v15.2.9",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 11504579,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v15.2.9/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/179167382"
+      },
+      "api": {
+        "filename": "appliedenergistics2-fabric-15.2.9-api.jar",
+        "size": 607834,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v15.2.9/appliedenergistics2-fabric-15.2.9-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/179167416"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-fabric-15.2.9.jar",
+        "size": 9858759,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric/v15.2.9/appliedenergistics2-fabric-15.2.9.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/179167408"
+      }
+    },
+    "published": "2024-07-12T09:45:52Z",
+    "changelog": "## What's Changed\n* Improve performance of updating the recipe in crafting terminals by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8027\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/fabric/v15.2.8...fabric/v15.2.9",
+    "version": "15.2.9",
+    "modLoaders": [
+      "fabric"
+    ],
+    "minecraftVersions": [
+      "1.20.1"
+    ]
   }
 }
