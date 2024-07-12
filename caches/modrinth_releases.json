@@ -1,5 +1,19 @@
 [
   {
+    "id": "bSahmw5k",
+    "displayName": "AE2 19.0.9-alpha [NEOFORGE]",
+    "version": "19.0.9-alpha",
+    "type": "alpha",
+    "gameVersions": [
+      "1.21"
+    ],
+    "published": "2024-07-11T20:52:46.890853Z",
+    "filename": "appliedenergistics2-19.0.9-alpha.jar",
+    "loaders": [
+      "neoforge"
+    ]
+  },
+  {
     "id": "fg8ibB1d",
     "displayName": "AE2 15.2.8 [NEOFORGE]",
     "version": "15.2.8",
