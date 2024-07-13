@@ -10496,5 +10496,31 @@
     "minecraftVersions": [
       "1.20.1"
     ]
+  },
+  "neoforge/v19.0.10-alpha": {
+    "tagName": "neoforge/v19.0.10-alpha",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v19.0.10-alpha",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12188106,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.10-alpha/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/179295818"
+      },
+      "api": {
+        "filename": "appliedenergistics2-19.0.10-alpha-api.jar",
+        "size": 656939,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.10-alpha/appliedenergistics2-19.0.10-alpha-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/179295721"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-19.0.10-alpha.jar",
+        "size": 9490746,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.10-alpha/appliedenergistics2-19.0.10-alpha.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/179295714"
+      }
+    },
+    "published": "2024-07-12T23:49:53Z",
+    "changelog": "## What's Changed\n* Addressed most left-over deprecations from 1.20.4+ by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8024\n* Improve recipe update performance in crating terminal by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8028\n* Refactor initialization to align better with NeoForge standards by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8025\n* Fix EMI recipe widgets by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8030\n* Port to NeoForge config system to benefit from automatic config screen integration by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8029\n* Renames by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8031\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.9-alpha...neoforge/v19.0.10-alpha"
   }
 }
