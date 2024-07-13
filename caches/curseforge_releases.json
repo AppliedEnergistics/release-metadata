@@ -1,5 +1,16 @@
 [
   {
+    "id": 5527358,
+    "filename": "appliedenergistics2-19.0.10-alpha.jar",
+    "displayName": "AE2 19.0.10-alpha [NEOFORGE]",
+    "type": 3,
+    "gameVersions": [
+      "NeoForge",
+      "1.21"
+    ],
+    "published": "2024-07-12T23:51:32.927Z"
+  },
+  {
     "id": 5525510,
     "filename": "appliedenergistics2-fabric-15.2.9.jar",
     "displayName": "AE2 15.2.9 [FABRIC]",
