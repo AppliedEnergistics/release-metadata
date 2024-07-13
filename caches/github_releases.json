@@ -10522,5 +10522,57 @@
     },
     "published": "2024-07-12T23:49:53Z",
     "changelog": "## What's Changed\n* Addressed most left-over deprecations from 1.20.4+ by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8024\n* Improve recipe update performance in crating terminal by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8028\n* Refactor initialization to align better with NeoForge standards by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8025\n* Fix EMI recipe widgets by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8030\n* Port to NeoForge config system to benefit from automatic config screen integration by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8029\n* Renames by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8031\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.9-alpha...neoforge/v19.0.10-alpha"
+  },
+  "neoforge/v19.0.12-alpha": {
+    "tagName": "neoforge/v19.0.12-alpha",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v19.0.12-alpha",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12183646,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.12-alpha/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/179378789"
+      },
+      "api": {
+        "filename": "appliedenergistics2-19.0.12-alpha-api.jar",
+        "size": 656939,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.12-alpha/appliedenergistics2-19.0.12-alpha-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/179378689"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-19.0.12-alpha.jar",
+        "size": 9489919,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.12-alpha/appliedenergistics2-19.0.12-alpha.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/179378687"
+      }
+    },
+    "published": "2024-07-13T14:34:50Z",
+    "changelog": "Some additions for addons and internal changes.\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.11-alpha...neoforge/v19.0.12-alpha"
+  },
+  "neoforge/v19.0.11-alpha": {
+    "tagName": "neoforge/v19.0.11-alpha",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v19.0.11-alpha",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12190960,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.11-alpha/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/179358305"
+      },
+      "api": {
+        "filename": "appliedenergistics2-19.0.11-alpha-api.jar",
+        "size": 656939,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.11-alpha/appliedenergistics2-19.0.11-alpha-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/179358224"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-19.0.11-alpha.jar",
+        "size": 9490664,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.11-alpha/appliedenergistics2-19.0.11-alpha.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/179358222"
+      }
+    },
+    "published": "2024-07-13T10:03:31Z",
+    "changelog": "Fix accidental inclusion of unreleased NeoForge Config screen."
   }
 }
