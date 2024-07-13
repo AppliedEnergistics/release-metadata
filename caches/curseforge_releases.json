@@ -1,5 +1,27 @@
 [
   {
+    "id": 5528874,
+    "filename": "appliedenergistics2-19.0.12-alpha.jar",
+    "displayName": "AE2 19.0.12-alpha [NEOFORGE]",
+    "type": 3,
+    "gameVersions": [
+      "NeoForge",
+      "1.21"
+    ],
+    "published": "2024-07-13T14:36:56.703Z"
+  },
+  {
+    "id": 5528193,
+    "filename": "appliedenergistics2-19.0.11-alpha.jar",
+    "displayName": "AE2 19.0.11-alpha [NEOFORGE]",
+    "type": 3,
+    "gameVersions": [
+      "NeoForge",
+      "1.21"
+    ],
+    "published": "2024-07-13T10:05:21.493Z"
+  },
+  {
     "id": 5527358,
     "filename": "appliedenergistics2-19.0.10-alpha.jar",
     "displayName": "AE2 19.0.10-alpha [NEOFORGE]",
