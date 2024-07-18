@@ -10574,5 +10574,31 @@
     },
     "published": "2024-07-13T10:03:31Z",
     "changelog": "Fix accidental inclusion of unreleased NeoForge Config screen."
+  },
+  "neoforge/v19.0.13-alpha": {
+    "tagName": "neoforge/v19.0.13-alpha",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v19.0.13-alpha",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12185617,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.13-alpha/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/180213628"
+      },
+      "api": {
+        "filename": "appliedenergistics2-19.0.13-alpha-api.jar",
+        "size": 656939,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.13-alpha/appliedenergistics2-19.0.13-alpha-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/180213419"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-19.0.13-alpha.jar",
+        "size": 9490059,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.13-alpha/appliedenergistics2-19.0.13-alpha.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/180213411"
+      }
+    },
+    "published": "2024-07-17T21:15:58Z",
+    "changelog": "## What's Changed\n* Fix QNB GUI by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8036\n* Fix synchronizing configuration data after the config is loaded by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8040\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.12-alpha...neoforge/v19.0.13-alpha"
   }
 }
