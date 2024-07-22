@@ -10652,5 +10652,31 @@
     },
     "published": "2024-07-20T21:00:25Z",
     "changelog": "## What's Changed\n* No Slimeballs by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8050\n* Fix resuming crafting recipe jobs after a world load by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8043\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.14-alpha...neoforge/v19.0.15-alpha"
+  },
+  "neoforge/v19.0.16-beta": {
+    "tagName": "neoforge/v19.0.16-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v19.0.16-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12181399,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.16-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/180975545"
+      },
+      "api": {
+        "filename": "appliedenergistics2-19.0.16-beta-api.jar",
+        "size": 659146,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.16-beta/appliedenergistics2-19.0.16-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/180975248"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-19.0.16-beta.jar",
+        "size": 9491904,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.16-beta/appliedenergistics2-19.0.16-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/180975244"
+      }
+    },
+    "published": "2024-07-21T22:26:10Z",
+    "changelog": "## What's Changed\n* Fix fluid block display in throw-in-water recipes in EMI/REI not showing in fabulous mode by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8052\n* Fix slot highlights being drawn on top of the held item by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8053\n* Fix saving of config when terminal settings are changed by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8054\n* Disabled DarkModeEverywhere for the AE Screens due to it not uniformly applying by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8055\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.15-alpha...neoforge/v19.0.16-beta"
   }
 }
