@@ -10777,5 +10777,31 @@
     "minecraftVersions": [
       "1.20.1"
     ]
+  },
+  "neoforge/v19.0.17-beta": {
+    "tagName": "neoforge/v19.0.17-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v19.0.17-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12182005,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.17-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/182216027"
+      },
+      "api": {
+        "filename": "appliedenergistics2-19.0.17-beta-api.jar",
+        "size": 659726,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.17-beta/appliedenergistics2-19.0.17-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/182215983"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-19.0.17-beta.jar",
+        "size": 9505497,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.17-beta/appliedenergistics2-19.0.17-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/182215977"
+      }
+    },
+    "published": "2024-07-27T17:00:47Z",
+    "changelog": "## What's Changed\n* Added logo to guidebook by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8071\n* Fix memory card claiming device incompatibility on import by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8070\n* Allow item upgrades to be added/removed by crafting them together. (For example to auto-craft upgraded storage cells directly). by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8072\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.15-alpha...neoforge/v19.0.17-beta"
   }
 }
