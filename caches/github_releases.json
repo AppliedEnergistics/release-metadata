@@ -10862,5 +10862,31 @@
     },
     "published": "2024-08-01T17:13:36Z",
     "changelog": "## What's Changed\n* Enable upgrading via crafting for wireless terminals too by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8073\n* Press Texture Update by @Ridanisaurus in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8076\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8063\n* Bump NeoForge to stable by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8083\n* Always enable the Guide hotkey by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8084\n* Fix #8066: Add setting for inscriber inputs to stack to 1 by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8082\n* Fix annihilation planes working when the network is offline by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8080\n* Switch away from deprecated render layer setting by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8056\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.17-beta...neoforge/v19.0.18-beta"
+  },
+  "neoforge/v19.0.19-beta": {
+    "tagName": "neoforge/v19.0.19-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v19.0.19-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12185399,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.19-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/183664986"
+      },
+      "api": {
+        "filename": "appliedenergistics2-19.0.19-beta-api.jar",
+        "size": 661048,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.19-beta/appliedenergistics2-19.0.19-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/183664811"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-19.0.19-beta.jar",
+        "size": 9515193,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.19-beta/appliedenergistics2-19.0.19-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/183664808"
+      }
+    },
+    "published": "2024-08-03T16:04:51Z",
+    "changelog": "## What's Changed\n* Fix crafting job progress bar exceeding 100% with container items by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8085\n* Fix #8022: Remove wrong documentation comments in ChannelMode by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8088\n* Add tag for lumen paintballs by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8090\n* Discourage VanillaFix by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8091\n* Fix depth of drive LED model by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8093\n* Add translation for death-by-matter-cannon by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8094\n* Only prevent recursive use of network storage, but not multiple uses on the same subnetwork depth by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8095\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8089\n* Remove config to simulate extraction of entire network inventory before simulating crafting jobs due to excessive performance impact. by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8096\n* Fix #7807: Charger can get stuck on 1599 power by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8099\n* Fix #7879: Sky stone chests are culled incorrectly by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8098\n* Fix #8020: Use up-to-date network contents for player-started crafting simulations by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8097\n* Rewrite the crafting simulation network snapshotting a little bit by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8100\n* Fix rare issues when moving BEs as part of spatial io by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8102\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.18-beta...neoforge/v19.0.19-beta"
   }
 }
