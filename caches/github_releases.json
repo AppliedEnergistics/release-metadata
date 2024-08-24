@@ -10947,5 +10947,31 @@
     "minecraftVersions": [
       "1.20.1"
     ]
+  },
+  "neoforge/v19.0.21-beta": {
+    "tagName": "neoforge/v19.0.21-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v19.0.21-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12187444,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.21-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/188054272"
+      },
+      "api": {
+        "filename": "appliedenergistics2-19.0.21-beta-api.jar",
+        "size": 662700,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.21-beta/appliedenergistics2-19.0.21-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/188054219"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-19.0.21-beta.jar",
+        "size": 9523116,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.21-beta/appliedenergistics2-19.0.21-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/188054216"
+      }
+    },
+    "published": "2024-08-24T15:41:48Z",
+    "changelog": "## What's Changed\n* Implement support for multiple of the same ingredient in transform recipes by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8137\n* Optimize ListCraftingInventory#extract by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8145\n* Fix grid nodes being corrupted under specific circumstances (spatial anchor + adjacent QNB) by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8162\n* Replace neighbor updates on Spatial Anchor with client-side updates by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8164\n* Require all drops to fit in the network for annihilation planes to break a block by @jpenilla in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8156\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8109\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.20-beta...neoforge/v19.0.21-beta"
   }
 }
