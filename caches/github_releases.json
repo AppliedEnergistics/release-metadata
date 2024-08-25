@@ -10973,5 +10973,31 @@
     },
     "published": "2024-08-24T15:41:48Z",
     "changelog": "## What's Changed\n* Implement support for multiple of the same ingredient in transform recipes by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8137\n* Optimize ListCraftingInventory#extract by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8145\n* Fix grid nodes being corrupted under specific circumstances (spatial anchor + adjacent QNB) by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8162\n* Replace neighbor updates on Spatial Anchor with client-side updates by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8164\n* Require all drops to fit in the network for annihilation planes to break a block by @jpenilla in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8156\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8109\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.20-beta...neoforge/v19.0.21-beta"
+  },
+  "neoforge/v19.0.22-beta": {
+    "tagName": "neoforge/v19.0.22-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v19.0.22-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12185840,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.22-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/188202170"
+      },
+      "api": {
+        "filename": "appliedenergistics2-19.0.22-beta-api.jar",
+        "size": 662700,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.22-beta/appliedenergistics2-19.0.22-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/188202089"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-19.0.22-beta.jar",
+        "size": 9522784,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.22-beta/appliedenergistics2-19.0.22-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/188202084"
+      }
+    },
+    "published": "2024-08-25T15:32:04Z",
+    "changelog": "## What's Changed\n* Rework how recipe types are registered to ensure they are all registered on startup by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8168\n* Fix crafting CPU selection list by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8166\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.21-beta...neoforge/v19.0.22-beta"
   }
 }
