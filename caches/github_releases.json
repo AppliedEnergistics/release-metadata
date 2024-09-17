@@ -10999,5 +10999,31 @@
     },
     "published": "2024-08-25T15:32:04Z",
     "changelog": "## What's Changed\n* Rework how recipe types are registered to ensure they are all registered on startup by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8168\n* Fix crafting CPU selection list by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8166\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.21-beta...neoforge/v19.0.22-beta"
+  },
+  "neoforge/v19.0.23-beta": {
+    "tagName": "neoforge/v19.0.23-beta",
+    "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/tag/neoforge/v19.0.23-beta",
+    "assets": {
+      "guide-assets": {
+        "filename": "guide-assets.zip",
+        "size": 12183101,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.23-beta/guide-assets.zip",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/192980996"
+      },
+      "api": {
+        "filename": "appliedenergistics2-19.0.23-beta-api.jar",
+        "size": 662700,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.23-beta/appliedenergistics2-19.0.23-beta-api.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/192980751"
+      },
+      "mod": {
+        "filename": "appliedenergistics2-19.0.23-beta.jar",
+        "size": 9529043,
+        "browser_download_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/neoforge/v19.0.23-beta/appliedenergistics2-19.0.23-beta.jar",
+        "url": "https://api.github.com/repos/AppliedEnergistics/Applied-Energistics-2/releases/assets/192980745"
+      }
+    },
+    "published": "2024-09-16T17:09:58Z",
+    "changelog": "## What's Changed\n* Introduce a custom recipe type for quartz knives to support damaging them on craft without duping them on repair by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8192\n\n\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.22-beta...neoforge/v19.0.23-beta"
   }
 }
