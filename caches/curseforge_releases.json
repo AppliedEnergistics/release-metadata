@@ -38,9 +38,9 @@
     "displayName": "AE2 15.2.13 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-08-18T17:48:47.697Z"
   },
@@ -61,8 +61,8 @@
     "displayName": "AE2 19.0.19-beta [NEOFORGE]",
     "type": 2,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-08-03T16:06:34Z"
   },
@@ -83,8 +83,8 @@
     "displayName": "AE2 19.0.18-beta [NEOFORGE]",
     "type": 2,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-08-01T17:15:26.083Z"
   },
@@ -94,8 +94,8 @@
     "displayName": "AE2 19.0.17-beta [NEOFORGE]",
     "type": 2,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-07-27T17:02:35.34Z"
   },
@@ -116,9 +116,9 @@
     "displayName": "AE2 15.2.11 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-07-25T19:50:06.273Z"
   },
@@ -128,9 +128,9 @@
     "displayName": "AE2 15.2.10 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-07-23T21:17:29.023Z"
   },
@@ -140,8 +140,8 @@
     "displayName": "AE2 19.0.16-beta [NEOFORGE]",
     "type": 2,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-07-21T22:27:46.227Z"
   },
@@ -151,8 +151,8 @@
     "displayName": "AE2 19.0.15-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-07-20T21:02:27.477Z"
   },
@@ -162,8 +162,8 @@
     "displayName": "AE2 19.0.14-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-07-20T09:17:07.333Z"
   },
@@ -173,8 +173,8 @@
     "displayName": "AE2 19.0.13-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-07-17T21:18:59.833Z"
   },
@@ -184,8 +184,8 @@
     "displayName": "AE2 19.0.12-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-07-13T14:36:56.703Z"
   },
@@ -195,8 +195,8 @@
     "displayName": "AE2 19.0.11-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-07-13T10:05:21.493Z"
   },
@@ -206,8 +206,8 @@
     "displayName": "AE2 19.0.10-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-07-12T23:51:32.927Z"
   },
@@ -228,9 +228,9 @@
     "displayName": "AE2 15.2.9 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-07-12T09:47:24.787Z"
   },
@@ -240,8 +240,8 @@
     "displayName": "AE2 19.0.9-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-07-11T20:52:38.443Z"
   },
@@ -251,9 +251,9 @@
     "displayName": "AE2 15.2.8 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-07-01T11:03:56.05Z"
   },
@@ -274,8 +274,8 @@
     "displayName": "AE2 19.0.8-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-06-30T21:23:55.583Z"
   },
@@ -285,9 +285,9 @@
     "displayName": "AE2 15.2.7 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-06-30T11:17:21.903Z"
   },
@@ -297,9 +297,9 @@
     "displayName": "AE2 15.2.6 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-06-30T00:28:10.897Z"
   },
@@ -309,9 +309,9 @@
     "displayName": "AE2 15.2.5 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-06-29T23:17:06.547Z"
   },
@@ -321,8 +321,8 @@
     "displayName": "AE2 19.0.7-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-06-27T20:28:11.89Z"
   },
@@ -332,8 +332,8 @@
     "displayName": "AE2 19.0.6-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-06-27T02:58:30.34Z"
   },
@@ -343,8 +343,8 @@
     "displayName": "AE2 19.0.5-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-06-24T01:23:07.62Z"
   },
@@ -354,9 +354,9 @@
     "displayName": "AE2 15.2.4 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-06-19T22:52:06.353Z"
   },
@@ -366,8 +366,8 @@
     "displayName": "AE2 19.0.4-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-06-18T23:01:21.327Z"
   },
@@ -377,8 +377,8 @@
     "displayName": "AE2 19.0.3-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-06-17T23:25:08.203Z"
   },
@@ -388,8 +388,8 @@
     "displayName": "AE2 19.0.2-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-06-16T23:56:00.167Z"
   },
@@ -399,8 +399,8 @@
     "displayName": "AE2 19.0.1-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-06-16T19:42:04.687Z"
   },
@@ -410,8 +410,8 @@
     "displayName": "AE2 19.0.0-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.21"
+      "1.21",
+      "NeoForge"
     ],
     "published": "2024-06-16T12:41:40.283Z"
   },
@@ -421,9 +421,9 @@
     "displayName": "AE2 15.2.3 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-06-05T23:03:22.82Z"
   },
@@ -433,9 +433,9 @@
     "displayName": "AE2 15.2.2 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-05-31T21:40:06.24Z"
   },
@@ -467,9 +467,9 @@
     "displayName": "AE2 15.2.1 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-05-09T20:21:38.723Z"
   },
@@ -490,9 +490,9 @@
     "displayName": "AE2 15.2.0 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-05-09T15:34:20.573Z"
   },
@@ -524,8 +524,8 @@
     "displayName": "AE2 18.0.1-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.20.5"
+      "1.20.5",
+      "NeoForge"
     ],
     "published": "2024-04-28T12:55:58.887Z"
   },
@@ -535,8 +535,9 @@
     "displayName": "AE2 18.0.0-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.20.5"
+      "1.0",
+      "1.20.5",
+      "NeoForge"
     ],
     "published": "2024-04-24T21:12:41.713Z"
   },
@@ -546,9 +547,9 @@
     "displayName": "AE2 15.1.1 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-04-11T07:06:24.307Z"
   },
@@ -569,9 +570,9 @@
     "displayName": "AE2 15.1.0 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-04-01T22:39:02.953Z"
   },
@@ -735,9 +736,9 @@
     "displayName": "AE2 15.0.23 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-03-09T15:15:32.247Z"
   },
@@ -923,9 +924,9 @@
     "displayName": "AE2 15.0.21 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-02-18T10:29:25.24Z"
   },
@@ -979,9 +980,9 @@
     "displayName": "AE2 15.0.20 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-01-14T17:14:36.6Z"
   },
@@ -1013,8 +1014,8 @@
     "displayName": "AE2 12.9.9 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2024-01-07T16:01:34.873Z"
   },
@@ -1035,9 +1036,9 @@
     "displayName": "AE2 15.0.19 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2024-01-07T15:34:36.287Z"
   },
@@ -1102,9 +1103,9 @@
     "displayName": "AE2 15.0.18 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2023-12-31T15:53:30.16Z"
   },
@@ -1125,9 +1126,9 @@
     "displayName": "AE2 15.0.17 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2023-12-29T14:12:46.407Z"
   },
@@ -1170,8 +1171,8 @@
     "displayName": "AE2 16.0.2 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "NeoForge",
-      "1.20.2"
+      "1.20.2",
+      "NeoForge"
     ],
     "published": "2023-12-03T12:47:36.397Z"
   },
@@ -1181,8 +1182,8 @@
     "displayName": "AE2 16.0.1-alpha [NEOFORGE]",
     "type": 3,
     "gameVersions": [
-      "NeoForge",
-      "1.20.2"
+      "1.20.2",
+      "NeoForge"
     ],
     "published": "2023-11-27T23:58:00.997Z"
   },
@@ -1192,9 +1193,9 @@
     "displayName": "AE2 15.0.15 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2023-11-10T22:24:58.757Z"
   },
@@ -1215,9 +1216,9 @@
     "displayName": "AE2 15.0.14 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2023-10-30T21:37:52.787Z"
   },
@@ -1238,9 +1239,9 @@
     "displayName": "AE2 15.0.13 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2023-10-06T00:12:58.003Z"
   },
@@ -1261,9 +1262,9 @@
     "displayName": "AE2 15.0.12 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2023-10-01T17:24:31.48Z"
   },
@@ -1284,9 +1285,9 @@
     "displayName": "AE2 15.0.11 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2023-09-03T16:03:37.007Z"
   },
@@ -1307,9 +1308,9 @@
     "displayName": "AE2 15.0.10 [NEOFORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2023-09-02T14:55:34.037Z"
   },
@@ -1341,8 +1342,8 @@
     "displayName": "AE2 12.9.8 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2023-09-02T01:06:09.52Z"
   },
@@ -1363,8 +1364,8 @@
     "displayName": "AE2 11.7.6 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2023-09-02T01:03:03.11Z"
   },
@@ -1374,8 +1375,8 @@
     "displayName": "AE2 12.9.7 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2023-08-22T21:49:27.62Z"
   },
@@ -1396,8 +1397,8 @@
     "displayName": "AE2 11.7.5 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2023-08-22T21:11:55.267Z"
   },
@@ -1418,9 +1419,9 @@
     "displayName": "AE2 15.0.9-beta [NEOFORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2023-08-06T07:36:02.737Z"
   },
@@ -1430,9 +1431,9 @@
     "displayName": "AE2 15.0.8-beta [NEOFORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2023-08-05T06:52:47.4Z"
   },
@@ -1442,9 +1443,9 @@
     "displayName": "AE2 15.0.7-beta [NEOFORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
+      "NeoForge",
       "1.20.1",
-      "NeoForge"
+      "Forge"
     ],
     "published": "2023-08-05T06:42:38.753Z"
   },
@@ -1465,8 +1466,8 @@
     "displayName": "AE2 15.0.6-beta [NEOFORGE]",
     "type": 2,
     "gameVersions": [
-      "1.20.1",
-      "NeoForge"
+      "NeoForge",
+      "1.20.1"
     ],
     "published": "2023-07-28T21:18:41.683Z"
   },
@@ -1487,8 +1488,8 @@
     "displayName": "AE2 15.0.5-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.20.1"
+      "1.20.1",
+      "Forge"
     ],
     "published": "2023-07-16T18:19:59.53Z"
   },
@@ -1520,8 +1521,8 @@
     "displayName": "AE2 15.0.4-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.20.1"
+      "1.20.1",
+      "Forge"
     ],
     "published": "2023-07-07T21:48:02.937Z"
   },
@@ -1553,8 +1554,8 @@
     "displayName": "AE2 15.0.3-alpha [FORGE]",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.20.1"
+      "1.20.1",
+      "Forge"
     ],
     "published": "2023-06-27T00:12:02.843Z"
   },
@@ -1564,8 +1565,8 @@
     "displayName": "AE2 15.0.2-alpha [FORGE]",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.20.1"
+      "1.20.1",
+      "Forge"
     ],
     "published": "2023-06-15T23:04:55.953Z"
   },
@@ -1586,8 +1587,8 @@
     "displayName": "AE2 15.0.1-alpha [FORGE]",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.20.1"
+      "1.20.1",
+      "Forge"
     ],
     "published": "2023-06-14T23:48:45.05Z"
   },
@@ -1608,8 +1609,8 @@
     "displayName": "AE2 15.0.0-alpha [FORGE]",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.20.1"
+      "1.20.1",
+      "Forge"
     ],
     "published": "2023-06-14T00:33:06.097Z"
   },
@@ -1641,8 +1642,8 @@
     "displayName": "AE2 11.7.4 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2023-05-22T22:43:25.23Z"
   },
@@ -1652,8 +1653,8 @@
     "displayName": "AE2 12.9.5 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2023-05-22T22:40:08.16Z"
   },
@@ -1674,8 +1675,8 @@
     "displayName": "AE2 11.7.3 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2023-04-19T18:15:43.45Z"
   },
@@ -1685,8 +1686,8 @@
     "displayName": "AE2 12.9.4 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2023-04-19T18:03:35.5Z"
   },
@@ -1707,8 +1708,8 @@
     "displayName": "AE2 11.7.2 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2023-04-15T17:38:30.017Z"
   },
@@ -1718,8 +1719,8 @@
     "displayName": "AE2 12.9.3 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2023-04-15T17:31:18.03Z"
   },
@@ -1740,8 +1741,8 @@
     "displayName": "AE2 13.0.10-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.19.3"
+      "1.19.3",
+      "Forge"
     ],
     "published": "2023-02-24T23:19:48.853Z"
   },
@@ -1762,8 +1763,8 @@
     "displayName": "AE2 13.0.9-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.19.3"
+      "1.19.3",
+      "Forge"
     ],
     "published": "2023-01-22T20:15:22.303Z"
   },
@@ -1773,8 +1774,8 @@
     "displayName": "AE2 13.0.8-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.19.3"
+      "1.19.3",
+      "Forge"
     ],
     "published": "2023-01-22T16:05:25.843Z"
   },
@@ -1784,8 +1785,8 @@
     "displayName": "AE2 13.0.7-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.19.3"
+      "1.19.3",
+      "Forge"
     ],
     "published": "2023-01-21T12:05:50.177Z"
   },
@@ -1795,8 +1796,8 @@
     "displayName": "AE2 13.0.6-beta [FABRIC]",
     "type": 2,
     "gameVersions": [
-      "Fabric",
-      "1.19.3"
+      "1.19.3",
+      "Fabric"
     ],
     "published": "2023-01-18T21:23:13.257Z"
   },
@@ -1806,8 +1807,8 @@
     "displayName": "AE2 13.0.5-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.19.3"
+      "1.19.3",
+      "Forge"
     ],
     "published": "2023-01-03T17:55:56.983Z"
   },
@@ -1817,8 +1818,8 @@
     "displayName": "AE2 12.9.2 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2023-01-03T17:32:46.893Z"
   },
@@ -1839,8 +1840,8 @@
     "displayName": "AE2 13.0.4-alpha [FORGE]",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.19.3"
+      "1.19.3",
+      "Forge"
     ],
     "published": "2022-12-20T15:11:53.787Z"
   },
@@ -1850,8 +1851,8 @@
     "displayName": "AE2 13.0.3-alpha [FORGE]",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.19.3"
+      "1.19.3",
+      "Forge"
     ],
     "published": "2022-12-12T02:11:12.137Z"
   },
@@ -1861,8 +1862,8 @@
     "displayName": "AE2 13.0.3-alpha [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Fabric",
-      "1.19.3"
+      "1.19.3",
+      "Fabric"
     ],
     "published": "2022-12-12T01:20:29.653Z"
   },
@@ -1872,8 +1873,8 @@
     "displayName": "AE2 13.0.2-alpha [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Fabric",
-      "1.19.3"
+      "1.19.3",
+      "Fabric"
     ],
     "published": "2022-12-12T00:55:09.91Z"
   },
@@ -1883,8 +1884,8 @@
     "displayName": "AE2 13.0.1-alpha [FORGE]",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.19.3"
+      "1.19.3",
+      "Forge"
     ],
     "published": "2022-12-10T16:01:32.493Z"
   },
@@ -1894,8 +1895,8 @@
     "displayName": "AE2 13.0.0-alpha [FORGE]",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.19.3"
+      "1.19.3",
+      "Forge"
     ],
     "published": "2022-12-10T01:03:46.693Z"
   },
@@ -1905,8 +1906,8 @@
     "displayName": "AE2 13.0.0-alpha [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Fabric",
-      "1.19.3"
+      "1.19.3",
+      "Fabric"
     ],
     "published": "2022-12-09T16:26:55.363Z"
   },
@@ -1916,8 +1917,8 @@
     "displayName": "AE2 11.7.0 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-12-05T22:52:33.983Z"
   },
@@ -1938,8 +1939,8 @@
     "displayName": "AE2 12.9.1 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2022-12-05T19:14:05.04Z"
   },
@@ -1971,8 +1972,8 @@
     "displayName": "AE2 11.6.7 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-12-01T23:24:31.693Z"
   },
@@ -1993,8 +1994,8 @@
     "displayName": "AE2 11.6.6 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-11-23T00:45:54.87Z"
   },
@@ -2015,8 +2016,8 @@
     "displayName": "AE2 12.8.6 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2022-11-21T23:26:53.9Z"
   },
@@ -2026,8 +2027,8 @@
     "displayName": "AE2 11.6.5 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-11-20T22:37:45.673Z"
   },
@@ -2048,8 +2049,8 @@
     "displayName": "AE2 12.8.5 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2022-11-20T22:22:07.087Z"
   },
@@ -2070,8 +2071,8 @@
     "displayName": "AE2 11.6.4 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-11-09T17:35:48.603Z"
   },
@@ -2081,8 +2082,8 @@
     "displayName": "AE2 11.6.3 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-11-04T21:44:33.24Z"
   },
@@ -2092,8 +2093,8 @@
     "displayName": "AE2 12.8.4 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2022-10-29T09:44:57.04Z"
   },
@@ -2114,8 +2115,8 @@
     "displayName": "AE2 11.6.2 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-10-28T22:11:02.017Z"
   },
@@ -2136,9 +2137,8 @@
     "displayName": "22w42a Snapshot [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Fabric",
-      "Java 17",
-      "1.19.3"
+      "1.19.3",
+      "Fabric"
     ],
     "published": "2022-10-22T21:05:18.447Z"
   },
@@ -2148,8 +2148,8 @@
     "displayName": "AE2 12.8.3-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2022-10-15T23:57:35.517Z"
   },
@@ -2170,8 +2170,8 @@
     "displayName": "AE2 11.6.1-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-10-09T19:00:49.873Z"
   },
@@ -2192,8 +2192,8 @@
     "displayName": "AE2 12.8.2-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2022-10-09T17:32:34.747Z"
   },
@@ -2214,8 +2214,8 @@
     "displayName": "AE2 11.6.0-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-10-09T16:20:24.157Z"
   },
@@ -2236,8 +2236,8 @@
     "displayName": "AE2 12.8.1-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2022-10-09T15:27:21.93Z"
   },
@@ -2258,8 +2258,8 @@
     "displayName": "AE2 12.8.0-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2022-10-09T10:59:16.157Z"
   },
@@ -2280,8 +2280,8 @@
     "displayName": "AE2 11.5.0 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-10-01T11:26:51.4Z"
   },
@@ -2302,8 +2302,8 @@
     "displayName": "AE2 12.7.0 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2022-09-30T23:22:43.277Z"
   },
@@ -2324,8 +2324,8 @@
     "displayName": "AE2 11.4.0 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-09-26T23:42:24.213Z"
   },
@@ -2346,8 +2346,8 @@
     "displayName": "AE2 12.6.0 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2022-09-26T21:54:17.223Z"
   },
@@ -2379,8 +2379,8 @@
     "displayName": "AE2 11.3.0 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-09-26T00:59:10.053Z"
   },
@@ -2390,8 +2390,8 @@
     "displayName": "AE2 11.2.0 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-09-23T19:16:59.74Z"
   },
@@ -2412,8 +2412,8 @@
     "displayName": "AE2 12.5.2-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2022-09-21T17:42:10.377Z"
   },
@@ -2423,8 +2423,8 @@
     "displayName": "AE2 12.5.1-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2022-09-18T22:38:03.017Z"
   },
@@ -2456,8 +2456,8 @@
     "displayName": "AE2 12.5.0-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2022-09-15T19:13:40.827Z"
   },
@@ -2467,8 +2467,8 @@
     "displayName": "AE2 12.4.0-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2022-09-12T00:31:30.987Z"
   },
@@ -2489,8 +2489,8 @@
     "displayName": "AE2 12.3.0-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2022-09-11T00:53:30.773Z"
   },
@@ -2511,8 +2511,8 @@
     "displayName": "AE2 12.2.0-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2022-09-03T15:32:12.843Z"
   },
@@ -2533,8 +2533,8 @@
     "displayName": "AE2 11.1.7 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-09-02T20:34:26.467Z"
   },
@@ -2555,8 +2555,8 @@
     "displayName": "AE2 12.1.2-beta [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2022-08-21T11:21:45.813Z"
   },
@@ -2577,8 +2577,8 @@
     "displayName": "AE2 11.1.6 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-08-21T09:18:04.453Z"
   },
@@ -2599,8 +2599,8 @@
     "displayName": "AE2 12.1.1-alpha [FORGE]",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.19.2"
+      "1.19.2",
+      "Forge"
     ],
     "published": "2022-08-07T08:54:00.98Z"
   },
@@ -2632,8 +2632,8 @@
     "displayName": "AE2 11.1.5 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-08-01T22:42:19.893Z"
   },
@@ -2709,8 +2709,8 @@
     "displayName": "AE2 11.1.4 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-07-04T22:56:52.083Z"
   },
@@ -2742,8 +2742,8 @@
     "displayName": "AE2 11.1.3 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-06-17T20:28:12.017Z"
   },
@@ -2764,8 +2764,8 @@
     "displayName": "AE2 11.1.2 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-06-09T21:59:23.083Z"
   },
@@ -2786,8 +2786,8 @@
     "displayName": "AE2 11.1.1 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-06-05T08:13:07.48Z"
   },
@@ -2797,8 +2797,8 @@
     "displayName": "AE2 11.1.0 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-06-04T18:16:37.93Z"
   },
@@ -2819,8 +2819,8 @@
     "displayName": "AE2 11.0.0 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-05-15T16:58:42.837Z"
   },
@@ -2841,8 +2841,8 @@
     "displayName": "AE2 11.0.0-alpha.6 [FORGE]",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-04-24T10:38:43.813Z"
   },
@@ -2852,8 +2852,8 @@
     "displayName": "AE2 11.0.0-alpha.5 [FORGE]",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-04-22T22:57:02.983Z"
   },
@@ -2874,8 +2874,8 @@
     "displayName": "AE2 10.1.0-beta.3 [FABRIC]",
     "type": 2,
     "gameVersions": [
-      "Fabric",
-      "1.18.1"
+      "1.18.1",
+      "Fabric"
     ],
     "published": "2022-04-18T09:39:54.643Z"
   },
@@ -2885,8 +2885,8 @@
     "displayName": "AE2 11.0.0-alpha.4 [FORGE]",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-04-05T19:16:37.233Z"
   },
@@ -2907,8 +2907,8 @@
     "displayName": "AE2 11.0.0-alpha.3 [FORGE]",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-04-02T16:48:31.81Z"
   },
@@ -2929,8 +2929,8 @@
     "displayName": "AE2 11.0.0-alpha.2 [FORGE]",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-03-28T18:09:34.053Z"
   },
@@ -2940,8 +2940,8 @@
     "displayName": "AE2 11.0.0-alpha.1 [FORGE]",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.18.2"
+      "1.18.2",
+      "Forge"
     ],
     "published": "2022-03-27T12:08:54.987Z"
   },
@@ -2962,8 +2962,8 @@
     "displayName": "AE2 10.1.0-beta.2 [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.18.1"
+      "1.18.1",
+      "Forge"
     ],
     "published": "2022-02-12T18:46:36.263Z"
   },
@@ -2973,8 +2973,8 @@
     "displayName": "AE2 10.1.0-beta.2 [FABRIC]",
     "type": 2,
     "gameVersions": [
-      "Fabric",
-      "1.18.1"
+      "1.18.1",
+      "Fabric"
     ],
     "published": "2022-02-12T17:53:53.6Z"
   },
@@ -2984,8 +2984,8 @@
     "displayName": "10.1.0-beta.1 [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.18.1"
+      "1.18.1",
+      "Forge"
     ],
     "published": "2022-01-30T17:35:45.147Z"
   },
@@ -2995,8 +2995,8 @@
     "displayName": "10.1.0-beta.1 [FABRIC]",
     "type": 2,
     "gameVersions": [
-      "Fabric",
-      "1.18.1"
+      "1.18.1",
+      "Fabric"
     ],
     "published": "2022-01-30T17:16:26.56Z"
   },
@@ -3006,8 +3006,8 @@
     "displayName": "10.0.1 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.1"
+      "1.18.1",
+      "Forge"
     ],
     "published": "2022-01-20T21:53:50.767Z"
   },
@@ -3017,8 +3017,8 @@
     "displayName": "10.0.0 [FABRIC]",
     "type": 1,
     "gameVersions": [
-      "Fabric",
-      "1.18.1"
+      "1.18.1",
+      "Fabric"
     ],
     "published": "2022-01-16T23:29:16.553Z"
   },
@@ -3028,19 +3028,19 @@
     "displayName": "10.0.0 [FORGE]",
     "type": 1,
     "gameVersions": [
-      "Forge",
-      "1.18.1"
+      "1.18.1",
+      "Forge"
     ],
     "published": "2022-01-16T23:25:52.453Z"
   },
   {
     "id": 3608871,
     "filename": "appliedenergistics2-8.4.7.jar",
+    "displayName": "appliedenergistics2-8.4.7.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2022-01-16T20:44:34.063Z"
   },
@@ -3050,8 +3050,8 @@
     "displayName": "10.0.0-beta.5 [FABRIC]",
     "type": 2,
     "gameVersions": [
-      "Fabric",
-      "1.18.1"
+      "1.18.1",
+      "Fabric"
     ],
     "published": "2022-01-09T17:45:12.89Z"
   },
@@ -3061,8 +3061,8 @@
     "displayName": "10.0.0-beta.4 [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.18.1"
+      "1.18.1",
+      "Forge"
     ],
     "published": "2022-01-09T16:33:39.28Z"
   },
@@ -3072,19 +3072,19 @@
     "displayName": "10.0.0-beta.4 [FABRIC]",
     "type": 2,
     "gameVersions": [
-      "Fabric",
-      "1.18.1"
+      "1.18.1",
+      "Fabric"
     ],
     "published": "2022-01-06T00:20:48.803Z"
   },
   {
     "id": 3590406,
     "filename": "appliedenergistics2-8.4.6.jar",
+    "displayName": "appliedenergistics2-8.4.6.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2022-01-01T23:08:32.303Z"
   },
@@ -3094,8 +3094,8 @@
     "displayName": "10.0.0-beta.3 [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.18.1"
+      "1.18.1",
+      "Forge"
     ],
     "published": "2022-01-01T20:35:25.163Z"
   },
@@ -3105,8 +3105,8 @@
     "displayName": "10.0.0-beta.3 [FABRIC]",
     "type": 2,
     "gameVersions": [
-      "Fabric",
-      "1.18.1"
+      "1.18.1",
+      "Fabric"
     ],
     "published": "2022-01-01T18:56:16.397Z"
   },
@@ -3116,8 +3116,8 @@
     "displayName": "10.0.0-beta.2 [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.18.1"
+      "1.18.1",
+      "Forge"
     ],
     "published": "2021-12-28T02:37:41.167Z"
   },
@@ -3127,9 +3127,9 @@
     "displayName": "10.0.0-beta.2 [FABRIC]",
     "type": 2,
     "gameVersions": [
+      "1.18.1",
       "Fabric",
-      "1.18",
-      "1.18.1"
+      "1.18"
     ],
     "published": "2021-12-28T01:52:53.563Z"
   },
@@ -3139,8 +3139,8 @@
     "displayName": "10.0.0-beta.1 [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.18.1"
+      "1.18.1",
+      "Forge"
     ],
     "published": "2021-12-24T00:57:16.84Z"
   },
@@ -3150,9 +3150,9 @@
     "displayName": "10.0.0-beta.1 [FABRIC]",
     "type": 2,
     "gameVersions": [
+      "1.18.1",
       "Fabric",
-      "1.18",
-      "1.18.1"
+      "1.18"
     ],
     "published": "2021-12-24T00:56:56.387Z"
   },
@@ -3162,8 +3162,8 @@
     "displayName": "10.0.0-alpha.7 [FORGE]",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.18.1"
+      "1.18.1",
+      "Forge"
     ],
     "published": "2021-12-20T17:49:29.32Z"
   },
@@ -3173,20 +3173,20 @@
     "displayName": "10.0.0-alpha.8 [FABRIC]",
     "type": 3,
     "gameVersions": [
+      "1.18.1",
       "Fabric",
-      "1.18",
-      "1.18.1"
+      "1.18"
     ],
     "published": "2021-12-20T16:11:11.743Z"
   },
   {
     "id": 3571836,
     "filename": "appliedenergistics2-8.4.5.jar",
+    "displayName": "appliedenergistics2-8.4.5.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2021-12-19T11:11:14.167Z"
   },
@@ -3196,8 +3196,8 @@
     "displayName": "10.0.0-alpha.6 [FORGE]",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.18.1"
+      "1.18.1",
+      "Forge"
     ],
     "published": "2021-12-14T17:03:38.65Z"
   },
@@ -3207,9 +3207,9 @@
     "displayName": "10.0.0-alpha.7 [FABRIC]",
     "type": 3,
     "gameVersions": [
+      "1.18.1",
       "Fabric",
-      "1.18",
-      "1.18.1"
+      "1.18"
     ],
     "published": "2021-12-14T15:03:55.447Z"
   },
@@ -3219,8 +3219,8 @@
     "displayName": "10.0.0-alpha.5 [FORGE]",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.18.1"
+      "1.18.1",
+      "Forge"
     ],
     "published": "2021-12-12T01:20:49.713Z"
   },
@@ -3230,9 +3230,9 @@
     "displayName": "10.0.0-alpha.6 [FABRIC]",
     "type": 3,
     "gameVersions": [
+      "1.18.1",
       "Fabric",
-      "1.18",
-      "1.18.1"
+      "1.18"
     ],
     "published": "2021-12-12T00:39:24.653Z"
   },
@@ -3264,9 +3264,9 @@
     "displayName": "10.0.0-alpha.5 [FABRIC]",
     "type": 3,
     "gameVersions": [
+      "1.18.1",
       "Fabric",
-      "1.18",
-      "1.18.1"
+      "1.18"
     ],
     "published": "2021-12-10T18:28:02.413Z"
   },
@@ -3339,11 +3339,11 @@
   {
     "id": 3528122,
     "filename": "appliedenergistics2-8.4.4.jar",
+    "displayName": "appliedenergistics2-8.4.4.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2021-11-16T23:55:45.67Z"
   },
@@ -3353,8 +3353,8 @@
     "displayName": "9.0.0-beta.2 [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.17.1"
+      "1.17.1",
+      "Forge"
     ],
     "published": "2021-11-15T22:03:54.44Z"
   },
@@ -3364,8 +3364,8 @@
     "displayName": "9.0.0-beta.2 [FABRIC]",
     "type": 2,
     "gameVersions": [
-      "Fabric",
-      "1.17.1"
+      "1.17.1",
+      "Fabric"
     ],
     "published": "2021-11-09T18:49:53.47Z"
   },
@@ -3375,8 +3375,8 @@
     "displayName": "9.0.0-beta.1 [FORGE]",
     "type": 2,
     "gameVersions": [
-      "Forge",
-      "1.17.1"
+      "1.17.1",
+      "Forge"
     ],
     "published": "2021-11-01T00:28:52.193Z"
   },
@@ -3386,18 +3386,19 @@
     "displayName": "9.0.0-beta.1 [FABRIC]",
     "type": 2,
     "gameVersions": [
-      "Fabric",
-      "1.17.1"
+      "1.17.1",
+      "Fabric"
     ],
     "published": "2021-10-31T22:45:15.523Z"
   },
   {
     "id": 3506945,
     "filename": "appliedenergistics2-9.0.0-alpha.2.jar",
+    "displayName": "appliedenergistics2-9.0.0-alpha.2.jar",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.17.1"
+      "1.17.1",
+      "Forge"
     ],
     "published": "2021-10-27T22:42:46.777Z"
   },
@@ -3407,8 +3408,8 @@
     "displayName": "9.0.0-alpha.8 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Fabric",
-      "1.17.1"
+      "1.17.1",
+      "Fabric"
     ],
     "published": "2021-10-27T17:53:55.233Z"
   },
@@ -3418,29 +3419,30 @@
     "displayName": "9.0.0-alpha.7 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Fabric",
-      "1.17.1"
+      "1.17.1",
+      "Fabric"
     ],
     "published": "2021-10-24T20:04:06.723Z"
   },
   {
     "id": 3502523,
     "filename": "appliedenergistics2-8.4.3.jar",
+    "displayName": "appliedenergistics2-8.4.3.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2021-10-24T18:22:27.137Z"
   },
   {
     "id": 3500169,
     "filename": "appliedenergistics2-9.0.0-alpha.1.jar",
+    "displayName": "appliedenergistics2-9.0.0-alpha.1.jar",
     "type": 3,
     "gameVersions": [
-      "Forge",
-      "1.17.1"
+      "1.17.1",
+      "Forge"
     ],
     "published": "2021-10-23T14:40:39.727Z"
   },
@@ -3450,8 +3452,8 @@
     "displayName": "9.0.0-alpha.6 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Fabric",
-      "1.17.1"
+      "1.17.1",
+      "Fabric"
     ],
     "published": "2021-10-21T21:05:43.443Z"
   },
@@ -3461,8 +3463,8 @@
     "displayName": "9.0.0-alpha.5 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Fabric",
-      "1.17.1"
+      "1.17.1",
+      "Fabric"
     ],
     "published": "2021-10-17T14:39:24.043Z"
   },
@@ -3472,8 +3474,8 @@
     "displayName": "9.0.0-alpha.4 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Fabric",
-      "1.17.1"
+      "1.17.1",
+      "Fabric"
     ],
     "published": "2021-10-12T23:22:44.36Z"
   },
@@ -3483,8 +3485,8 @@
     "displayName": "9.0.0-alpha.3 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Fabric",
-      "1.17.1"
+      "1.17.1",
+      "Fabric"
     ],
     "published": "2021-10-11T20:05:01.893Z"
   },
@@ -3494,7 +3496,6 @@
     "displayName": "8.4.0-alpha.3 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Fabric",
       "1.16.5"
     ],
@@ -3506,8 +3507,8 @@
     "displayName": "9.0.0-alpha.2 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Fabric",
-      "1.17.1"
+      "1.17.1",
+      "Fabric"
     ],
     "published": "2021-10-10T20:44:11.05Z"
   },
@@ -3517,30 +3518,30 @@
     "displayName": "9.0.0-alpha.1 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Fabric",
-      "1.17.1"
+      "1.17.1",
+      "Fabric"
     ],
     "published": "2021-10-03T13:55:01.853Z"
   },
   {
     "id": 3480020,
     "filename": "appliedenergistics2-8.4.2.jar",
+    "displayName": "appliedenergistics2-8.4.2.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2021-10-03T12:30:29.977Z"
   },
   {
     "id": 3455386,
     "filename": "appliedenergistics2-8.4.1.jar",
+    "displayName": "appliedenergistics2-8.4.1.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2021-09-10T09:03:15.73Z"
   },
@@ -3550,7 +3551,6 @@
     "displayName": "8.4.0-alpha.2 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Fabric",
       "1.16.5"
     ],
@@ -3562,7 +3562,6 @@
     "displayName": "8.4.0-alpha.1 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Fabric",
       "1.16.5"
     ],
@@ -3571,22 +3570,22 @@
   {
     "id": 3354897,
     "filename": "appliedenergistics2-8.4.0.jar",
+    "displayName": "appliedenergistics2-8.4.0.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2021-06-17T08:27:19.81Z"
   },
   {
     "id": 3344043,
     "filename": "appliedenergistics2-8.4.0-beta.1.jar",
+    "displayName": "appliedenergistics2-8.4.0-beta.1.jar",
     "type": 2,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2021-06-08T19:53:16.363Z"
   },
@@ -3596,7 +3595,6 @@
     "displayName": "8.3.0-alpha.3 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Fabric",
       "1.16.5"
     ],
@@ -3605,11 +3603,11 @@
   {
     "id": 3312569,
     "filename": "appliedenergistics2-8.4.0-alpha.2.jar",
+    "displayName": "appliedenergistics2-8.4.0-alpha.2.jar",
     "type": 3,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2021-05-17T13:07:35.403Z"
   },
@@ -3619,7 +3617,6 @@
     "displayName": "8.3.0-alpha.2 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Fabric",
       "1.16.5"
     ],
@@ -3628,11 +3625,11 @@
   {
     "id": 3310679,
     "filename": "appliedenergistics2-8.4.0-alpha.1.jar",
+    "displayName": "appliedenergistics2-8.4.0-alpha.1.jar",
     "type": 3,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2021-05-15T16:12:30.78Z"
   },
@@ -3642,7 +3639,6 @@
     "displayName": "8.3.0-alpha.1 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Fabric",
       "1.16.5"
     ],
@@ -3651,77 +3647,77 @@
   {
     "id": 3304605,
     "filename": "appliedenergistics2-8.3.1.jar",
+    "displayName": "appliedenergistics2-8.3.1.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2021-05-10T12:27:08.073Z"
   },
   {
     "id": 3300404,
     "filename": "appliedenergistics2-8.3.0.jar",
+    "displayName": "appliedenergistics2-8.3.0.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2021-05-06T13:38:50.403Z"
   },
   {
     "id": 3286808,
     "filename": "appliedenergistics2-8.3.0-beta.2.jar",
+    "displayName": "appliedenergistics2-8.3.0-beta.2.jar",
     "type": 2,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2021-04-23T19:10:02.927Z"
   },
   {
     "id": 3281222,
     "filename": "appliedenergistics2-8.3.0-beta.1.jar",
+    "displayName": "appliedenergistics2-8.3.0-beta.1.jar",
     "type": 2,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2021-04-18T19:04:27.557Z"
   },
   {
     "id": 3280233,
     "filename": "appliedenergistics2-8.3.0-alpha.4.jar",
+    "displayName": "appliedenergistics2-8.3.0-alpha.4.jar",
     "type": 3,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2021-04-17T21:18:39.187Z"
   },
   {
     "id": 3272696,
     "filename": "appliedenergistics2-8.3.0-alpha.3.jar",
+    "displayName": "appliedenergistics2-8.3.0-alpha.3.jar",
     "type": 3,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2021-04-11T17:23:05.893Z"
   },
   {
     "id": 3238334,
     "filename": "appliedenergistics2-8.3.0-alpha.2.jar",
+    "displayName": "appliedenergistics2-8.3.0-alpha.2.jar",
     "type": 3,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2021-03-13T18:55:34.137Z"
   },
@@ -3731,7 +3727,6 @@
     "displayName": "8.2.0-alpha.3 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Fabric",
       "1.16.5"
     ],
@@ -3743,7 +3738,6 @@
     "displayName": "8.2.0-alpha.2 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Fabric",
       "1.16.5"
     ],
@@ -3752,11 +3746,11 @@
   {
     "id": 3213455,
     "filename": "appliedenergistics2-8.3.0-alpha.1.jar",
+    "displayName": "appliedenergistics2-8.3.0-alpha.1.jar",
     "type": 3,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.5"
+      "1.16.5",
+      "Forge"
     ],
     "published": "2021-02-22T21:23:34.62Z"
   },
@@ -3766,7 +3760,6 @@
     "displayName": "8.2.0-alpha.1 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Fabric",
       "1.16.5"
     ],
@@ -3775,9 +3768,9 @@
   {
     "id": 3185882,
     "filename": "appliedenergistics2-8.2.0.jar",
+    "displayName": "appliedenergistics2-8.2.0.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
       "Forge",
       "1.16.4"
     ],
@@ -3786,9 +3779,9 @@
   {
     "id": 3173512,
     "filename": "appliedenergistics2-8.2.0-beta.3.jar",
+    "displayName": "appliedenergistics2-8.2.0-beta.3.jar",
     "type": 2,
     "gameVersions": [
-      "Java 8",
       "Forge",
       "1.16.4"
     ],
@@ -3797,9 +3790,9 @@
   {
     "id": 3156262,
     "filename": "appliedenergistics2-8.2.0-beta.2.jar",
+    "displayName": "appliedenergistics2-8.2.0-beta.2.jar",
     "type": 2,
     "gameVersions": [
-      "Java 8",
       "Forge",
       "1.16.4"
     ],
@@ -3808,9 +3801,9 @@
   {
     "id": 3148160,
     "filename": "appliedenergistics2-8.2.0-beta.1.jar",
+    "displayName": "appliedenergistics2-8.2.0-beta.1.jar",
     "type": 2,
     "gameVersions": [
-      "Java 8",
       "Forge",
       "1.16.4"
     ],
@@ -3819,9 +3812,9 @@
   {
     "id": 3118473,
     "filename": "appliedenergistics2-8.2.0-alpha.2.jar",
+    "displayName": "appliedenergistics2-8.2.0-alpha.2.jar",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Forge",
       "1.16.4"
     ],
@@ -3833,18 +3826,17 @@
     "displayName": "8.1.0-alpha.13 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
-      "Fabric",
-      "1.16.3"
+      "1.16.3",
+      "Fabric"
     ],
     "published": "2020-11-20T18:08:57.727Z"
   },
   {
     "id": 3117860,
     "filename": "appliedenergistics2-8.2.0-alpha.1.jar",
+    "displayName": "appliedenergistics2-8.2.0-alpha.1.jar",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Forge",
       "1.16.4"
     ],
@@ -3853,13 +3845,13 @@
   {
     "id": 3106770,
     "filename": "appliedenergistics2-8.1.0.jar",
+    "displayName": "appliedenergistics2-8.1.0.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.2",
       "1.16.3",
-      "1.16.4"
+      "Forge",
+      "1.16.4",
+      "1.16.2"
     ],
     "published": "2020-11-09T14:08:02.57Z"
   },
@@ -3869,31 +3861,30 @@
     "displayName": "8.1.0-alpha.12 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
-      "Fabric",
-      "1.16.3"
+      "1.16.3",
+      "Fabric"
     ],
     "published": "2020-11-02T22:46:46.807Z"
   },
   {
     "id": 3098178,
     "filename": "appliedenergistics2-8.0.0.jar",
+    "displayName": "appliedenergistics2-8.0.0.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.1"
+      "1.16.1",
+      "Forge"
     ],
     "published": "2020-10-31T17:44:11.677Z"
   },
   {
     "id": 3098161,
     "filename": "appliedenergistics2-7.0.5.jar",
+    "displayName": "appliedenergistics2-7.0.5.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.15.2"
+      "1.15.2",
+      "Forge"
     ],
     "published": "2020-10-31T17:20:44.447Z"
   },
@@ -3903,68 +3894,67 @@
     "displayName": "8.1.0-alpha.11 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
-      "Fabric",
-      "1.16.3"
+      "1.16.3",
+      "Fabric"
     ],
     "published": "2020-10-31T00:18:21.79Z"
   },
   {
     "id": 3094818,
     "filename": "appliedenergistics2-8.1.0-beta.2.jar",
+    "displayName": "appliedenergistics2-8.1.0-beta.2.jar",
     "type": 2,
     "gameVersions": [
-      "Java 8",
+      "1.16.3",
       "Forge",
-      "1.16.2",
-      "1.16.3"
+      "1.16.2"
     ],
     "published": "2020-10-27T23:46:45.757Z"
   },
   {
     "id": 3094787,
     "filename": "appliedenergistics2-8.1.0-beta.1.jar",
+    "displayName": "appliedenergistics2-8.1.0-beta.1.jar",
     "type": 2,
     "gameVersions": [
-      "Java 8",
+      "1.16.3",
       "Forge",
-      "1.16.2",
-      "1.16.3"
+      "1.16.2"
     ],
     "published": "2020-10-27T23:10:05.257Z"
   },
   {
     "id": 3094774,
     "filename": "appliedenergistics2-8.1.0-beta.1.jar",
+    "displayName": "appliedenergistics2-8.1.0-beta.1.jar",
     "type": 2,
     "gameVersions": [
-      "Java 8",
+      "1.16.3",
       "Forge",
-      "1.16.2",
-      "1.16.3"
+      "1.16.2"
     ],
     "published": "2020-10-27T22:52:47.12Z"
   },
   {
     "id": 3061111,
     "filename": "appliedenergistics2-8.1.0-alpha.3.jar",
+    "displayName": "appliedenergistics2-8.1.0-alpha.3.jar",
     "type": 3,
     "gameVersions": [
-      "Java 8",
+      "1.16.3",
       "Forge",
-      "1.16.2",
-      "1.16.3"
+      "1.16.2"
     ],
     "published": "2020-09-20T11:26:33.333Z"
   },
   {
     "id": 3061104,
     "filename": "appliedenergistics2-8.0.0-beta.4.jar",
+    "displayName": "appliedenergistics2-8.0.0-beta.4.jar",
     "type": 2,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.1"
+      "1.16.1",
+      "Forge"
     ],
     "published": "2020-09-20T11:05:13.783Z"
   },
@@ -3974,9 +3964,8 @@
     "displayName": "8.1.0-alpha.10 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
-      "Fabric",
-      "1.16.3"
+      "1.16.3",
+      "Fabric"
     ],
     "published": "2020-09-19T01:27:19.497Z"
   },
@@ -3986,7 +3975,6 @@
     "displayName": "8.1.0-alpha.9 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Fabric",
       "1.16.2"
     ],
@@ -3995,11 +3983,11 @@
   {
     "id": 3054021,
     "filename": "appliedenergistics2-8.0.0-beta.3.jar",
+    "displayName": "appliedenergistics2-8.0.0-beta.3.jar",
     "type": 2,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.1"
+      "1.16.1",
+      "Forge"
     ],
     "published": "2020-09-10T21:22:31.36Z"
   },
@@ -4009,7 +3997,6 @@
     "displayName": "8.1.0-alpha.8 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Fabric",
       "1.16.2"
     ],
@@ -4018,20 +4005,20 @@
   {
     "id": 3053152,
     "filename": "appliedenergistics2-7.0.4.jar",
+    "displayName": "appliedenergistics2-7.0.4.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.15.2"
+      "1.15.2",
+      "Forge"
     ],
     "published": "2020-09-09T18:39:09.423Z"
   },
   {
     "id": 3052596,
     "filename": "appliedenergistics2-8.1.0-alpha.2.jar",
+    "displayName": "appliedenergistics2-8.1.0-alpha.2.jar",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Forge",
       "1.16.2"
     ],
@@ -4043,7 +4030,6 @@
     "displayName": "8.1.0-alpha.7 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Fabric",
       "1.16.2"
     ],
@@ -4055,7 +4041,6 @@
     "displayName": "8.1.0-alpha.6 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Fabric",
       "1.16.2"
     ],
@@ -4064,22 +4049,22 @@
   {
     "id": 3047582,
     "filename": "appliedenergistics2-7.0.3.jar",
+    "displayName": "appliedenergistics2-7.0.3.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.15.2"
+      "1.15.2",
+      "Forge"
     ],
     "published": "2020-09-01T21:06:19.067Z"
   },
   {
     "id": 3045258,
     "filename": "appliedenergistics2-7.0.2.jar",
+    "displayName": "appliedenergistics2-7.0.2.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.15.2"
+      "1.15.2",
+      "Forge"
     ],
     "published": "2020-08-29T20:30:25.723Z"
   },
@@ -4089,7 +4074,6 @@
     "displayName": "8.1.0-alpha.5 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Fabric",
       "1.16.2"
     ],
@@ -4098,11 +4082,11 @@
   {
     "id": 3041296,
     "filename": "appliedenergistics2-8.0.0-beta.2.jar",
+    "displayName": "appliedenergistics2-8.0.0-beta.2.jar",
     "type": 2,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.1"
+      "1.16.1",
+      "Forge"
     ],
     "published": "2020-08-24T23:10:36.543Z"
   },
@@ -4112,7 +4096,6 @@
     "displayName": "8.1.0-alpha.4 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Fabric",
       "1.16.2"
     ],
@@ -4124,7 +4107,6 @@
     "displayName": "8.1.0-alpha.3 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Fabric",
       "1.16.2"
     ],
@@ -4133,11 +4115,11 @@
   {
     "id": 3038720,
     "filename": "appliedenergistics2-7.0.1.jar",
+    "displayName": "appliedenergistics2-7.0.1.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.15.2"
+      "1.15.2",
+      "Forge"
     ],
     "published": "2020-08-21T18:20:21.723Z"
   },
@@ -4147,7 +4129,6 @@
     "displayName": "8.1.0-alpha.2 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Fabric",
       "1.16.2"
     ],
@@ -4159,7 +4140,6 @@
     "displayName": "8.1.0-alpha.1 [FABRIC]",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Fabric",
       "1.16.2"
     ],
@@ -4168,20 +4148,20 @@
   {
     "id": 3033130,
     "filename": "appliedenergistics2-8.0.0-beta.1.jar",
+    "displayName": "appliedenergistics2-8.0.0-beta.1.jar",
     "type": 2,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.1"
+      "1.16.1",
+      "Forge"
     ],
     "published": "2020-08-15T13:27:37.483Z"
   },
   {
     "id": 3033109,
     "filename": "appliedenergistics2-8.1.0-alpha.1.jar",
+    "displayName": "appliedenergistics2-8.1.0-alpha.1.jar",
     "type": 3,
     "gameVersions": [
-      "Java 8",
       "Forge",
       "1.16.2"
     ],
@@ -4190,105 +4170,106 @@
   {
     "id": 3033069,
     "filename": "appliedenergistics2-7.0.0.jar",
+    "displayName": "appliedenergistics2-7.0.0.jar",
     "type": 1,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.15.2"
+      "1.15.2",
+      "Forge"
     ],
     "published": "2020-08-15T11:34:58.727Z"
   },
   {
     "id": 3031294,
     "filename": "appliedenergistics2-8.0.0-alpha.3.jar",
+    "displayName": "appliedenergistics2-8.0.0-alpha.3.jar",
     "type": 3,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.1"
+      "1.16.1",
+      "Forge"
     ],
     "published": "2020-08-13T16:29:50.69Z"
   },
   {
     "id": 3024462,
     "filename": "appliedenergistics2-8.0.0-alpha.2.jar",
+    "displayName": "appliedenergistics2-8.0.0-alpha.2.jar",
     "type": 3,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.1"
+      "1.16.1",
+      "Forge"
     ],
     "published": "2020-08-05T20:47:56.867Z"
   },
   {
     "id": 3024461,
     "filename": "appliedenergistics2-7.0.0-beta.2.jar",
+    "displayName": "appliedenergistics2-7.0.0-beta.2.jar",
     "type": 2,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.15.2"
+      "1.15.2",
+      "Forge"
     ],
     "published": "2020-08-05T20:46:11.183Z"
   },
   {
     "id": 3020576,
     "filename": "appliedenergistics2-8.0.0-alpha.1.jar",
+    "displayName": "appliedenergistics2-8.0.0-alpha.1.jar",
     "type": 3,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.16.1"
+      "1.16.1",
+      "Forge"
     ],
     "published": "2020-08-01T11:07:32.69Z"
   },
   {
     "id": 3015191,
     "filename": "appliedenergistics2-7.0.0-beta.1.jar",
+    "displayName": "appliedenergistics2-7.0.0-beta.1.jar",
     "type": 2,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.15.2"
+      "1.15.2",
+      "Forge"
     ],
     "published": "2020-07-26T15:02:35.073Z"
   },
   {
     "id": 3010055,
     "filename": "appliedenergistics2-7.0.0-alpha.8.jar",
+    "displayName": "appliedenergistics2-7.0.0-alpha.8.jar",
     "type": 3,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.15.2"
+      "1.15.2",
+      "Forge"
     ],
     "published": "2020-07-20T20:10:44.017Z"
   },
   {
     "id": 3002943,
     "filename": "appliedenergistics2-7.0.0-alpha.7.jar",
+    "displayName": "appliedenergistics2-7.0.0-alpha.7.jar",
     "type": 3,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.15.2"
+      "1.15.2",
+      "Forge"
     ],
     "published": "2020-07-12T14:38:58.347Z"
   },
   {
     "id": 2998317,
     "filename": "appliedenergistics2-7.0.0-alpha.6.jar",
+    "displayName": "appliedenergistics2-7.0.0-alpha.6.jar",
     "type": 3,
     "gameVersions": [
-      "Java 8",
-      "Forge",
-      "1.15.2"
+      "1.15.2",
+      "Forge"
     ],
     "published": "2020-07-07T08:31:14.76Z"
   },
   {
     "id": 2747063,
     "filename": "appliedenergistics2-rv6-stable-7.jar",
+    "displayName": "appliedenergistics2-rv6-stable-7.jar",
     "type": 1,
     "gameVersions": [
       "1.12.2"
@@ -4298,6 +4279,7 @@
   {
     "id": 2652453,
     "filename": "appliedenergistics2-rv6-stable-6.jar",
+    "displayName": "appliedenergistics2-rv6-stable-6.jar",
     "type": 1,
     "gameVersions": [
       "1.12.2"
@@ -4307,6 +4289,7 @@
   {
     "id": 2651992,
     "filename": "appliedenergistics2-rv6-stable-5.jar",
+    "displayName": "appliedenergistics2-rv6-stable-5.jar",
     "type": 1,
     "gameVersions": [
       "1.12.2"
@@ -4316,6 +4299,7 @@
   {
     "id": 2637256,
     "filename": "appliedenergistics2-rv6-stable-4.jar",
+    "displayName": "appliedenergistics2-rv6-stable-4.jar",
     "type": 1,
     "gameVersions": [
       "1.12.2"
@@ -4325,6 +4309,7 @@
   {
     "id": 2630108,
     "filename": "appliedenergistics2-rv6-stable-3.jar",
+    "displayName": "appliedenergistics2-rv6-stable-3.jar",
     "type": 1,
     "gameVersions": [
       "1.12.2"
@@ -4334,6 +4319,7 @@
   {
     "id": 2624747,
     "filename": "appliedenergistics2-rv6-stable-2.jar",
+    "displayName": "appliedenergistics2-rv6-stable-2.jar",
     "type": 1,
     "gameVersions": [
       "1.12.2"
@@ -4343,6 +4329,7 @@
   {
     "id": 2622506,
     "filename": "appliedenergistics2-rv6-stable-1.jar",
+    "displayName": "appliedenergistics2-rv6-stable-1.jar",
     "type": 1,
     "gameVersions": [
       "1.12.2"
@@ -4352,6 +4339,7 @@
   {
     "id": 2619850,
     "filename": "appliedenergistics2-rv6-beta-1.jar",
+    "displayName": "appliedenergistics2-rv6-beta-1.jar",
     "type": 2,
     "gameVersions": [
       "1.12.2"
@@ -4361,6 +4349,7 @@
   {
     "id": 2612061,
     "filename": "appliedenergistics2-rv6-alpha-4.jar",
+    "displayName": "appliedenergistics2-rv6-alpha-4.jar",
     "type": 3,
     "gameVersions": [
       "1.12.2"
@@ -4370,6 +4359,7 @@
   {
     "id": 2582952,
     "filename": "appliedenergistics2-rv6-alpha-3.jar",
+    "displayName": "appliedenergistics2-rv6-alpha-3.jar",
     "type": 3,
     "gameVersions": [
       "1.12.2"
@@ -4379,6 +4369,7 @@
   {
     "id": 2580831,
     "filename": "appliedenergistics2-rv6-alpha-2.jar",
+    "displayName": "appliedenergistics2-rv6-alpha-2.jar",
     "type": 3,
     "gameVersions": [
       "1.12.2"
@@ -4388,6 +4379,7 @@
   {
     "id": 2577127,
     "filename": "appliedenergistics2-rv6-alpha-1.jar",
+    "displayName": "appliedenergistics2-rv6-alpha-1.jar",
     "type": 3,
     "gameVersions": [
       "1.12.2"
@@ -4397,6 +4389,7 @@
   {
     "id": 2543840,
     "filename": "appliedenergistics2-rv5-stable-11.jar",
+    "displayName": "appliedenergistics2-rv5-stable-11.jar",
     "type": 1,
     "gameVersions": [
       "1.12.2"
@@ -4406,6 +4399,7 @@
   {
     "id": 2538800,
     "filename": "appliedenergistics2-rv5-stable-10.jar",
+    "displayName": "appliedenergistics2-rv5-stable-10.jar",
     "type": 1,
     "gameVersions": [
       "1.12.2"
@@ -4415,6 +4409,7 @@
   {
     "id": 2537419,
     "filename": "appliedenergistics2-rv5-stable-9.jar",
+    "displayName": "appliedenergistics2-rv5-stable-9.jar",
     "type": 1,
     "gameVersions": [
       "1.12.2"
@@ -4424,6 +4419,7 @@
   {
     "id": 2528331,
     "filename": "appliedenergistics2-rv5-stable-8.jar",
+    "displayName": "appliedenergistics2-rv5-stable-8.jar",
     "type": 1,
     "gameVersions": [
       "1.12.2"
@@ -4433,6 +4429,7 @@
   {
     "id": 2525654,
     "filename": "appliedenergistics2-rv5-stable-7.jar",
+    "displayName": "appliedenergistics2-rv5-stable-7.jar",
     "type": 1,
     "gameVersions": [
       "1.12.2"
@@ -4442,6 +4439,7 @@
   {
     "id": 2525252,
     "filename": "appliedenergistics2-rv5-stable-6.jar",
+    "displayName": "appliedenergistics2-rv5-stable-6.jar",
     "type": 1,
     "gameVersions": [
       "1.12.2"
@@ -4451,6 +4449,7 @@
   {
     "id": 2520222,
     "filename": "appliedenergistics2-rv5-stable-5.jar",
+    "displayName": "appliedenergistics2-rv5-stable-5.jar",
     "type": 1,
     "gameVersions": [
       "1.12.2"
@@ -4460,6 +4459,7 @@
   {
     "id": 2515354,
     "filename": "appliedenergistics2-rv5-stable-4.jar",
+    "displayName": "appliedenergistics2-rv5-stable-4.jar",
     "type": 1,
     "gameVersions": [
       "1.12.2"
@@ -4469,6 +4469,7 @@
   {
     "id": 2503759,
     "filename": "appliedenergistics2-rv5-stable-3.jar",
+    "displayName": "appliedenergistics2-rv5-stable-3.jar",
     "type": 1,
     "gameVersions": [
       "1.12.2"
@@ -4478,6 +4479,7 @@
   {
     "id": 2499496,
     "filename": "appliedenergistics2-rv5-stable-2.jar",
+    "displayName": "appliedenergistics2-rv5-stable-2.jar",
     "type": 1,
     "gameVersions": [
       "1.12.2"
@@ -4487,6 +4489,7 @@
   {
     "id": 2497056,
     "filename": "appliedenergistics2-rv5-stable-1.jar",
+    "displayName": "appliedenergistics2-rv5-stable-1.jar",
     "type": 1,
     "gameVersions": [
       "1.12.2"
@@ -4496,6 +4499,7 @@
   {
     "id": 2496103,
     "filename": "appliedenergistics2-rv5-beta-3.jar",
+    "displayName": "appliedenergistics2-rv5-beta-3.jar",
     "type": 2,
     "gameVersions": [
       "1.12.2"
@@ -4505,6 +4509,7 @@
   {
     "id": 2492787,
     "filename": "appliedenergistics2-rv5-beta-2.jar",
+    "displayName": "appliedenergistics2-rv5-beta-2.jar",
     "type": 2,
     "gameVersions": [
       "1.12.2"
@@ -4514,6 +4519,7 @@
   {
     "id": 2490639,
     "filename": "appliedenergistics2-rv5-beta-1.jar",
+    "displayName": "appliedenergistics2-rv5-beta-1.jar",
     "type": 2,
     "gameVersions": [
       "1.12.2"
@@ -4523,6 +4529,7 @@
   {
     "id": 2488736,
     "filename": "appliedenergistics2-rv5-alpha-8.jar",
+    "displayName": "appliedenergistics2-rv5-alpha-8.jar",
     "type": 3,
     "gameVersions": [
       "1.12.2"
@@ -4532,56 +4539,62 @@
   {
     "id": 2486738,
     "filename": "appliedenergistics2-rv5-alpha-7.jar",
+    "displayName": "appliedenergistics2-rv5-alpha-7.jar",
     "type": 3,
     "gameVersions": [
-      "1.12",
-      "1.12.1"
+      "1.12.1",
+      "1.12"
     ],
     "published": "2017-10-02T20:59:31.057Z"
   },
   {
     "id": 2486364,
     "filename": "appliedenergistics2-rv5-alpha-6.jar",
+    "displayName": "appliedenergistics2-rv5-alpha-6.jar",
     "type": 3,
     "gameVersions": [
-      "1.12",
-      "1.12.1"
+      "1.12.1",
+      "1.12"
     ],
     "published": "2017-10-01T21:25:52.95Z"
   },
   {
     "id": 2485791,
     "filename": "appliedenergistics2-rv5-alpha-5.jar",
+    "displayName": "appliedenergistics2-rv5-alpha-5.jar",
     "type": 3,
     "gameVersions": [
-      "1.12",
-      "1.12.1"
+      "1.12.1",
+      "1.12"
     ],
     "published": "2017-09-30T15:43:59.593Z"
   },
   {
     "id": 2470624,
     "filename": "appliedenergistics2-rv5-alpha-4.jar",
+    "displayName": "appliedenergistics2-rv5-alpha-4.jar",
     "type": 3,
     "gameVersions": [
-      "1.12",
-      "1.12.1"
+      "1.12.1",
+      "1.12"
     ],
     "published": "2017-08-29T10:30:09.663Z"
   },
   {
     "id": 2466041,
     "filename": "appliedenergistics2-rv5-alpha-3.jar",
+    "displayName": "appliedenergistics2-rv5-alpha-3.jar",
     "type": 3,
     "gameVersions": [
-      "1.12",
-      "1.12.1"
+      "1.12.1",
+      "1.12"
     ],
     "published": "2017-08-17T23:11:34.98Z"
   },
   {
     "id": 2460196,
     "filename": "appliedenergistics2-rv5-alpha-2.jar",
+    "displayName": "appliedenergistics2-rv5-alpha-2.jar",
     "type": 3,
     "gameVersions": [
       "1.12"
@@ -4591,6 +4604,7 @@
   {
     "id": 2457650,
     "filename": "appliedenergistics2-rv5-alpha-1.jar",
+    "displayName": "appliedenergistics2-rv5-alpha-1.jar",
     "type": 3,
     "gameVersions": [
       "1.12"
@@ -4600,6 +4614,7 @@
   {
     "id": 2454983,
     "filename": "appliedenergistics2-rv4-stable-1.jar",
+    "displayName": "appliedenergistics2-rv4-stable-1.jar",
     "type": 1,
     "gameVersions": [
       "1.10.2"
@@ -4609,6 +4624,7 @@
   {
     "id": 2362522,
     "filename": "appliedenergistics2-rv4-alpha-11.jar",
+    "displayName": "appliedenergistics2-rv4-alpha-11.jar",
     "type": 3,
     "gameVersions": [
       "1.10.2"
@@ -4618,6 +4634,7 @@
   {
     "id": 2356184,
     "filename": "appliedenergistics2-rv4-alpha-9.jar",
+    "displayName": "appliedenergistics2-rv4-alpha-9.jar",
     "type": 3,
     "gameVersions": [
       "1.10.2"
@@ -4627,6 +4644,7 @@
   {
     "id": 2351885,
     "filename": "appliedenergistics2-rv4-alpha-8.jar",
+    "displayName": "appliedenergistics2-rv4-alpha-8.jar",
     "type": 3,
     "gameVersions": [
       "1.10.2"
@@ -4636,6 +4654,7 @@
   {
     "id": 2349416,
     "filename": "appliedenergistics2-rv4-alpha-7.jar",
+    "displayName": "appliedenergistics2-rv4-alpha-7.jar",
     "type": 3,
     "gameVersions": [
       "1.10.2"
@@ -4645,6 +4664,7 @@
   {
     "id": 2344520,
     "filename": "appliedenergistics2-rv4-alpha-6.jar",
+    "displayName": "appliedenergistics2-rv4-alpha-6.jar",
     "type": 3,
     "gameVersions": [
       "1.10.2"
@@ -4654,6 +4674,7 @@
   {
     "id": 2342489,
     "filename": "appliedenergistics2-rv4-alpha-5.jar",
+    "displayName": "appliedenergistics2-rv4-alpha-5.jar",
     "type": 3,
     "gameVersions": [
       "1.10.2"
@@ -4663,6 +4684,7 @@
   {
     "id": 2341711,
     "filename": "appliedenergistics2-rv4-alpha-4.jar",
+    "displayName": "appliedenergistics2-rv4-alpha-4.jar",
     "type": 3,
     "gameVersions": [
       "1.10.2"
@@ -4672,6 +4694,7 @@
   {
     "id": 2340980,
     "filename": "appliedenergistics2-rv4-alpha-3.jar",
+    "displayName": "appliedenergistics2-rv4-alpha-3.jar",
     "type": 3,
     "gameVersions": [
       "1.10.2"
@@ -4681,6 +4704,7 @@
   {
     "id": 2340277,
     "filename": "appliedenergistics2-rv4-alpha-2.jar",
+    "displayName": "appliedenergistics2-rv4-alpha-2.jar",
     "type": 3,
     "gameVersions": [
       "1.10.2"
@@ -4690,6 +4714,7 @@
   {
     "id": 2339671,
     "filename": "appliedenergistics2-rv4-alpha-1.jar",
+    "displayName": "appliedenergistics2-rv4-alpha-1.jar",
     "type": 3,
     "gameVersions": [
       "1.10.2"
@@ -4699,6 +4724,7 @@
   {
     "id": 2296430,
     "filename": "appliedenergistics2-rv3-beta-6.jar",
+    "displayName": "appliedenergistics2-rv3-beta-6.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -4708,6 +4734,7 @@
   {
     "id": 2275190,
     "filename": "appliedenergistics2-rv3-beta-5.jar",
+    "displayName": "appliedenergistics2-rv3-beta-5.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -4717,6 +4744,7 @@
   {
     "id": 2274340,
     "filename": "appliedenergistics2-rv3-beta-4.jar",
+    "displayName": "appliedenergistics2-rv3-beta-4.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -4726,6 +4754,7 @@
   {
     "id": 2273867,
     "filename": "appliedenergistics2-rv3-beta-3.jar",
+    "displayName": "appliedenergistics2-rv3-beta-3.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -4735,6 +4764,7 @@
   {
     "id": 2272472,
     "filename": "appliedenergistics2-rv3-beta-2.jar",
+    "displayName": "appliedenergistics2-rv3-beta-2.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -4744,6 +4774,7 @@
   {
     "id": 2271614,
     "filename": "appliedenergistics2-rv3-beta-1.jar",
+    "displayName": "appliedenergistics2-rv3-beta-1.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -4753,6 +4784,7 @@
   {
     "id": 2270341,
     "filename": "appliedenergistics2-rv3-alpha-13.jar",
+    "displayName": "appliedenergistics2-rv3-alpha-13.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -4762,6 +4794,7 @@
   {
     "id": 2270214,
     "filename": "appliedenergistics2-rv3-alpha-12.jar",
+    "displayName": "appliedenergistics2-rv3-alpha-12.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -4771,6 +4804,7 @@
   {
     "id": 2266823,
     "filename": "appliedenergistics2-rv3-alpha-10.jar",
+    "displayName": "appliedenergistics2-rv3-alpha-10.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -4780,6 +4814,7 @@
   {
     "id": 2261820,
     "filename": "appliedenergistics2-rv3-alpha-9.jar",
+    "displayName": "appliedenergistics2-rv3-alpha-9.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -4789,6 +4824,7 @@
   {
     "id": 2259906,
     "filename": "appliedenergistics2-rv3-alpha-8.jar",
+    "displayName": "appliedenergistics2-rv3-alpha-8.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -4798,6 +4834,7 @@
   {
     "id": 2259134,
     "filename": "appliedenergistics2-rv3-alpha-7.jar",
+    "displayName": "appliedenergistics2-rv3-alpha-7.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -4807,6 +4844,7 @@
   {
     "id": 2256472,
     "filename": "appliedenergistics2-rv3-alpha-6.jar",
+    "displayName": "appliedenergistics2-rv3-alpha-6.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -4816,6 +4854,7 @@
   {
     "id": 2253658,
     "filename": "appliedenergistics2-rv3-alpha-5.jar",
+    "displayName": "appliedenergistics2-rv3-alpha-5.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -4825,6 +4864,7 @@
   {
     "id": 2252563,
     "filename": "appliedenergistics2-rv3-alpha-4.jar",
+    "displayName": "appliedenergistics2-rv3-alpha-4.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -4834,6 +4874,7 @@
   {
     "id": 2252433,
     "filename": "appliedenergistics2-rv3-alpha-3.jar",
+    "displayName": "appliedenergistics2-rv3-alpha-3.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -4843,6 +4884,7 @@
   {
     "id": 2248911,
     "filename": "appliedenergistics2-rv3-alpha-2.jar",
+    "displayName": "appliedenergistics2-rv3-alpha-2.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -4852,6 +4894,7 @@
   {
     "id": 2248765,
     "filename": "appliedenergistics2-rv3-alpha-1.jar",
+    "displayName": "appliedenergistics2-rv3-alpha-1.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -4861,6 +4904,7 @@
   {
     "id": 2245762,
     "filename": "appliedenergistics2-rv2-stable-10.jar",
+    "displayName": "appliedenergistics2-rv2-stable-10.jar",
     "type": 1,
     "gameVersions": [
       "1.7.10"
@@ -4870,6 +4914,7 @@
   {
     "id": 2243087,
     "filename": "appliedenergistics2-rv2-stable-9.jar",
+    "displayName": "appliedenergistics2-rv2-stable-9.jar",
     "type": 1,
     "gameVersions": [
       "1.7.10"
@@ -4879,6 +4924,7 @@
   {
     "id": 2242849,
     "filename": "appliedenergistics2-rv2-stable-8.jar",
+    "displayName": "appliedenergistics2-rv2-stable-8.jar",
     "type": 1,
     "gameVersions": [
       "1.7.10"
@@ -4888,6 +4934,7 @@
   {
     "id": 2242806,
     "filename": "appliedenergistics2-rv2-stable-7.jar",
+    "displayName": "appliedenergistics2-rv2-stable-7.jar",
     "type": 1,
     "gameVersions": [
       "1.7.10"
@@ -4897,6 +4944,7 @@
   {
     "id": 2242134,
     "filename": "appliedenergistics2-rv2-stable-6.jar",
+    "displayName": "appliedenergistics2-rv2-stable-6.jar",
     "type": 1,
     "gameVersions": [
       "1.7.10"
@@ -4906,6 +4954,7 @@
   {
     "id": 2241481,
     "filename": "appliedenergistics2-rv2-stable-5.jar",
+    "displayName": "appliedenergistics2-rv2-stable-5.jar",
     "type": 1,
     "gameVersions": [
       "1.7.10"
@@ -4915,6 +4964,7 @@
   {
     "id": 2240972,
     "filename": "appliedenergistics2-rv2-stable-4.jar",
+    "displayName": "appliedenergistics2-rv2-stable-4.jar",
     "type": 1,
     "gameVersions": [
       "1.7.10"
@@ -4924,6 +4974,7 @@
   {
     "id": 2238960,
     "filename": "appliedenergistics2-rv2-stable-3.jar",
+    "displayName": "appliedenergistics2-rv2-stable-3.jar",
     "type": 1,
     "gameVersions": [
       "1.7.10"
@@ -4933,6 +4984,7 @@
   {
     "id": 2238883,
     "filename": "appliedenergistics2-rv2-stable-2.jar",
+    "displayName": "appliedenergistics2-rv2-stable-2.jar",
     "type": 1,
     "gameVersions": [
       "1.7.10"
@@ -4942,6 +4994,7 @@
   {
     "id": 2236702,
     "filename": "appliedenergistics2-rv2-stable-1.jar",
+    "displayName": "appliedenergistics2-rv2-stable-1.jar",
     "type": 1,
     "gameVersions": [
       "1.7.10"
@@ -4951,6 +5004,7 @@
   {
     "id": 2236692,
     "filename": "appliedenergistics2-rv2-beta-33.jar",
+    "displayName": "appliedenergistics2-rv2-beta-33.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -4960,6 +5014,7 @@
   {
     "id": 2236495,
     "filename": "appliedenergistics2-rv2-beta-32.jar",
+    "displayName": "appliedenergistics2-rv2-beta-32.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -4967,17 +5022,9 @@
     "published": "2015-05-02T18:47:18.963Z"
   },
   {
-    "id": 2235876,
-    "filename": "appliedenergistics2-rv2-beta-31.jar",
-    "type": 2,
-    "gameVersions": [
-      "1.7.10"
-    ],
-    "published": "2015-04-29T16:49:53.48Z"
-  },
-  {
     "id": 2235606,
     "filename": "appliedenergistics2-rv2-beta-30.jar",
+    "displayName": "appliedenergistics2-rv2-beta-30.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -4987,6 +5034,7 @@
   {
     "id": 2235270,
     "filename": "appliedenergistics2-rv2-beta-29.jar",
+    "displayName": "appliedenergistics2-rv2-beta-29.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -4996,6 +5044,7 @@
   {
     "id": 2233397,
     "filename": "appliedenergistics2-rv2-beta-28.jar",
+    "displayName": "appliedenergistics2-rv2-beta-28.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5005,6 +5054,7 @@
   {
     "id": 2233144,
     "filename": "appliedenergistics2-rv2-beta-27.jar",
+    "displayName": "appliedenergistics2-rv2-beta-27.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5014,6 +5064,7 @@
   {
     "id": 2233032,
     "filename": "appliedenergistics2-rv2-beta-26.jar",
+    "displayName": "appliedenergistics2-rv2-beta-26.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5023,6 +5074,7 @@
   {
     "id": 2232946,
     "filename": "appliedenergistics2-rv2-beta-25.jar",
+    "displayName": "appliedenergistics2-rv2-beta-25.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5032,6 +5084,7 @@
   {
     "id": 2232761,
     "filename": "appliedenergistics2-rv2-beta-24.jar",
+    "displayName": "appliedenergistics2-rv2-beta-24.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5041,6 +5094,7 @@
   {
     "id": 2232667,
     "filename": "appliedenergistics2-rv2-beta-23.jar",
+    "displayName": "appliedenergistics2-rv2-beta-23.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5050,6 +5104,7 @@
   {
     "id": 2231917,
     "filename": "appliedenergistics2-rv2-beta-22.jar",
+    "displayName": "appliedenergistics2-rv2-beta-22.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5059,6 +5114,7 @@
   {
     "id": 2231395,
     "filename": "appliedenergistics2-rv2-beta-18.jar",
+    "displayName": "appliedenergistics2-rv2-beta-18.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5068,6 +5124,7 @@
   {
     "id": 2231387,
     "filename": "appliedenergistics2-rv2-beta-17.jar",
+    "displayName": "appliedenergistics2-rv2-beta-17.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5077,6 +5134,7 @@
   {
     "id": 2231280,
     "filename": "appliedenergistics2-rv2-beta-16.jar",
+    "displayName": "appliedenergistics2-rv2-beta-16.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5086,6 +5144,7 @@
   {
     "id": 2231142,
     "filename": "appliedenergistics2-rv2-beta-15.jar",
+    "displayName": "appliedenergistics2-rv2-beta-15.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5095,6 +5154,7 @@
   {
     "id": 2230474,
     "filename": "appliedenergistics2-rv2-beta-14.jar",
+    "displayName": "appliedenergistics2-rv2-beta-14.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5104,6 +5164,7 @@
   {
     "id": 2230377,
     "filename": "appliedenergistics2-rv2-beta-13.jar",
+    "displayName": "appliedenergistics2-rv2-beta-13.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5113,6 +5174,7 @@
   {
     "id": 2230362,
     "filename": "appliedenergistics2-rv2-beta-12.jar",
+    "displayName": "appliedenergistics2-rv2-beta-12.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5122,6 +5184,7 @@
   {
     "id": 2230269,
     "filename": "appliedenergistics2-rv2-beta-11.jar",
+    "displayName": "appliedenergistics2-rv2-beta-11.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5131,6 +5194,7 @@
   {
     "id": 2230023,
     "filename": "appliedenergistics2-rv2-beta-10.jar",
+    "displayName": "appliedenergistics2-rv2-beta-10.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5140,6 +5204,7 @@
   {
     "id": 2229922,
     "filename": "appliedenergistics2-rv2-beta-9.jar",
+    "displayName": "appliedenergistics2-rv2-beta-9.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5149,6 +5214,7 @@
   {
     "id": 2225372,
     "filename": "appliedenergistics2-rv2-beta-8.jar",
+    "displayName": "appliedenergistics2-rv2-beta-8.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5158,6 +5224,7 @@
   {
     "id": 2223435,
     "filename": "appliedenergistics2-rv2-beta-7.jar",
+    "displayName": "appliedenergistics2-rv2-beta-7.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5167,6 +5234,7 @@
   {
     "id": 2223294,
     "filename": "appliedenergistics2-rv2-beta-6.jar",
+    "displayName": "appliedenergistics2-rv2-beta-6.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5176,6 +5244,7 @@
   {
     "id": 2223245,
     "filename": "appliedenergistics2-rv2-beta-5.jar",
+    "displayName": "appliedenergistics2-rv2-beta-5.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5185,6 +5254,7 @@
   {
     "id": 2223208,
     "filename": "appliedenergistics2-rv2-beta-4.jar",
+    "displayName": "appliedenergistics2-rv2-beta-4.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5194,6 +5264,7 @@
   {
     "id": 2223114,
     "filename": "appliedenergistics2-rv2-beta-3.jar",
+    "displayName": "appliedenergistics2-rv2-beta-3.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5203,6 +5274,7 @@
   {
     "id": 2223086,
     "filename": "appliedenergistics2-rv2-beta-2.jar",
+    "displayName": "appliedenergistics2-rv2-beta-2.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5212,6 +5284,7 @@
   {
     "id": 2221937,
     "filename": "appliedenergistics2-rv2-beta-1.jar",
+    "displayName": "appliedenergistics2-rv2-beta-1.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5221,6 +5294,7 @@
   {
     "id": 2221351,
     "filename": "appliedenergistics2-rv2-alpha-29.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-29.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5230,6 +5304,7 @@
   {
     "id": 2221259,
     "filename": "appliedenergistics2-rv2-alpha-28.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-28.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5239,6 +5314,7 @@
   {
     "id": 2221149,
     "filename": "appliedenergistics2-rv2-alpha-27.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-27.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5248,6 +5324,7 @@
   {
     "id": 2219938,
     "filename": "appliedenergistics2-rv2-alpha-26.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-26.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5257,6 +5334,7 @@
   {
     "id": 2219742,
     "filename": "appliedenergistics2-rv2-alpha-25.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-25.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5266,6 +5344,7 @@
   {
     "id": 2219390,
     "filename": "appliedenergistics2-rv2-alpha-23.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-23.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5275,6 +5354,7 @@
   {
     "id": 2219258,
     "filename": "appliedenergistics2-rv2-alpha-22.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-22.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5284,6 +5364,7 @@
   {
     "id": 2219191,
     "filename": "appliedenergistics2-rv2-alpha-21.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-21.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5293,6 +5374,7 @@
   {
     "id": 2219073,
     "filename": "appliedenergistics2-rv2-alpha-20.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-20.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5302,6 +5384,7 @@
   {
     "id": 2218543,
     "filename": "appliedenergistics2-rv2-alpha-19.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-19.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5311,6 +5394,7 @@
   {
     "id": 2218530,
     "filename": "appliedenergistics2-rv2-alpha-18.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-18.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5320,6 +5404,7 @@
   {
     "id": 2218249,
     "filename": "appliedenergistics2-rv2-alpha-17.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-17.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5329,6 +5414,7 @@
   {
     "id": 2218204,
     "filename": "appliedenergistics2-rv2-alpha-16.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-16.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5338,6 +5424,7 @@
   {
     "id": 2218188,
     "filename": "appliedenergistics2-rv2-alpha-15.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-15.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5347,6 +5434,7 @@
   {
     "id": 2217023,
     "filename": "appliedenergistics2-rv2-alpha-14.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-14.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5356,6 +5444,7 @@
   {
     "id": 2216837,
     "filename": "appliedenergistics2-rv2-alpha-13.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-13.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5365,6 +5454,7 @@
   {
     "id": 2216776,
     "filename": "appliedenergistics2-rv2-alpha-12.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-12.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5374,6 +5464,7 @@
   {
     "id": 2216767,
     "filename": "appliedenergistics2-rv2-alpha-11.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-11.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5383,6 +5474,7 @@
   {
     "id": 2216549,
     "filename": "appliedenergistics2-rv2-alpha-10.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-10.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5392,6 +5484,7 @@
   {
     "id": 2216398,
     "filename": "appliedenergistics2-rv2-alpha-9.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-9.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5401,6 +5494,7 @@
   {
     "id": 2216272,
     "filename": "appliedenergistics2-rv2-alpha-8.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-8.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5410,6 +5504,7 @@
   {
     "id": 2216095,
     "filename": "appliedenergistics2-rv2-alpha-7.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-7.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5419,6 +5514,7 @@
   {
     "id": 2215833,
     "filename": "appliedenergistics2-rv2-alpha-6.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-6.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5428,6 +5524,7 @@
   {
     "id": 2215712,
     "filename": "appliedenergistics2-rv2-alpha-5.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-5.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5437,6 +5534,7 @@
   {
     "id": 2215525,
     "filename": "appliedenergistics2-rv2-alpha-4.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-4.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5446,6 +5544,7 @@
   {
     "id": 2215501,
     "filename": "appliedenergistics2-rv2-alpha-3.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-3.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5455,6 +5554,7 @@
   {
     "id": 2215398,
     "filename": "appliedenergistics2-rv2-alpha-2.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-2.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5464,6 +5564,7 @@
   {
     "id": 2215091,
     "filename": "appliedenergistics2-rv2-alpha-1.jar",
+    "displayName": "appliedenergistics2-rv2-alpha-1.jar",
     "type": 3,
     "gameVersions": [
       "1.7.10"
@@ -5473,6 +5574,7 @@
   {
     "id": 2214847,
     "filename": "appliedenergistics2-rv1-stable-1.jar",
+    "displayName": "appliedenergistics2-rv1-stable-1.jar",
     "type": 1,
     "gameVersions": [
       "1.7.10"
@@ -5482,6 +5584,7 @@
   {
     "id": 2214749,
     "filename": "appliedenergistics2-rv1-beta-37.jar",
+    "displayName": "appliedenergistics2-rv1-beta-37.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5491,6 +5594,7 @@
   {
     "id": 2214688,
     "filename": "appliedenergistics2-rv1-beta-36.jar",
+    "displayName": "appliedenergistics2-rv1-beta-36.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5500,6 +5604,7 @@
   {
     "id": 2214652,
     "filename": "appliedenergistics2-rv1-beta-35.jar",
+    "displayName": "appliedenergistics2-rv1-beta-35.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5509,6 +5614,7 @@
   {
     "id": 2214535,
     "filename": "appliedenergistics2-rv1-beta-34.jar",
+    "displayName": "appliedenergistics2-rv1-beta-34.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5518,6 +5624,7 @@
   {
     "id": 2214489,
     "filename": "appliedenergistics2-rv1-beta-33.jar",
+    "displayName": "appliedenergistics2-rv1-beta-33.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5527,6 +5634,7 @@
   {
     "id": 2214439,
     "filename": "appliedenergistics2-rv1-beta-32.jar",
+    "displayName": "appliedenergistics2-rv1-beta-32.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5536,6 +5644,7 @@
   {
     "id": 2214421,
     "filename": "appliedenergistics2-rv1-beta-31.jar",
+    "displayName": "appliedenergistics2-rv1-beta-31.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5545,6 +5654,7 @@
   {
     "id": 2214275,
     "filename": "appliedenergistics2-rv1-beta-30.jar",
+    "displayName": "appliedenergistics2-rv1-beta-30.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5554,6 +5664,7 @@
   {
     "id": 2214191,
     "filename": "appliedenergistics2-rv1-beta-29.jar",
+    "displayName": "appliedenergistics2-rv1-beta-29.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5563,6 +5674,7 @@
   {
     "id": 2214119,
     "filename": "appliedenergistics2-rv1-beta-28.jar",
+    "displayName": "appliedenergistics2-rv1-beta-28.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5572,6 +5684,7 @@
   {
     "id": 2214027,
     "filename": "appliedenergistics2-rv1-beta-27.jar",
+    "displayName": "appliedenergistics2-rv1-beta-27.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5581,6 +5694,7 @@
   {
     "id": 2213968,
     "filename": "appliedenergistics2-rv1-beta-25.jar",
+    "displayName": "appliedenergistics2-rv1-beta-25.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5590,6 +5704,7 @@
   {
     "id": 2213858,
     "filename": "appliedenergistics2-rv1-beta-24.jar",
+    "displayName": "appliedenergistics2-rv1-beta-24.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5599,6 +5714,7 @@
   {
     "id": 2213760,
     "filename": "appliedenergistics2-rv1-beta-23.jar",
+    "displayName": "appliedenergistics2-rv1-beta-23.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5608,6 +5724,7 @@
   {
     "id": 2213752,
     "filename": "appliedenergistics2-rv1-beta-22.jar",
+    "displayName": "appliedenergistics2-rv1-beta-22.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5617,6 +5734,7 @@
   {
     "id": 2213716,
     "filename": "appliedenergistics2-rv1-beta-21.jar",
+    "displayName": "appliedenergistics2-rv1-beta-21.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5626,6 +5744,7 @@
   {
     "id": 2213489,
     "filename": "appliedenergistics2-rv1-beta-20.jar",
+    "displayName": "appliedenergistics2-rv1-beta-20.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5635,6 +5754,7 @@
   {
     "id": 2213117,
     "filename": "appliedenergistics2-rv1-beta-19.jar",
+    "displayName": "appliedenergistics2-rv1-beta-19.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5644,6 +5764,7 @@
   {
     "id": 2213077,
     "filename": "appliedenergistics2-rv1-beta-18.jar",
+    "displayName": "appliedenergistics2-rv1-beta-18.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5653,6 +5774,7 @@
   {
     "id": 2212975,
     "filename": "appliedenergistics2-rv1-beta-17.jar",
+    "displayName": "appliedenergistics2-rv1-beta-17.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5662,6 +5784,7 @@
   {
     "id": 2212955,
     "filename": "appliedenergistics2-rv1-beta-16.jar",
+    "displayName": "appliedenergistics2-rv1-beta-16.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5671,6 +5794,7 @@
   {
     "id": 2212868,
     "filename": "appliedenergistics2-rv1-beta-15.jar",
+    "displayName": "appliedenergistics2-rv1-beta-15.jar",
     "type": 2,
     "gameVersions": [
       "1.7.10"
@@ -5680,6 +5804,7 @@
   {
     "id": 2212867,
     "filename": "appliedenergistics2-rv0-stable-10.jar",
+    "displayName": "appliedenergistics2-rv0-stable-10.jar",
     "type": 1,
     "gameVersions": [
       "1.7.10"
@@ -5689,6 +5814,7 @@
   {
     "id": 2212866,
     "filename": "appliedenergistics2-rv0-stable-9.jar",
+    "displayName": "appliedenergistics2-rv0-stable-9.jar",
     "type": 1,
     "gameVersions": [
       "1.7.2"
